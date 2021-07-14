@@ -5,7 +5,7 @@
 
 2. Descriptive figures for gender, white-collar profession, higher education, and age
 
-3. Polarization by gender with CIs in output folder
+3. Intra-party polarization figures (gender, Helsinki-based, old vs. young, higher educ, etc.) located in main_figures folder
 
 
 
