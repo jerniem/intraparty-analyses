@@ -15,4 +15,4 @@ partyvar="gender"
 fake_indicator=0
 #covariates="c0"
 
-srun python fig-gender.py
+srun python fig-partisanship-cis.py

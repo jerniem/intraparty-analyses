@@ -111,47 +111,6 @@ def getDialect(district):
         dialect = "Åland"
     return dialect
 
-
-
-
-####################### UUSIMAA AND HELSINKI ##############################
-
-
-
-# getUusimaa (Uusimaa or Helsinki)
-def getUusimaa(district):
-    if district in ['Uudenmaan', 'Helsingin']:
-       	uusimaa	= 1
-    elif district in [np.nan, "missing"]:
-       	uusimaa = np.nan
-    else:
-        uusimaa = 0
-    return uusimaa
-
-#getHelsinki (Helsinki)
-def getHelsinki(district):
-    if district in ['Helsingin']:
-       	helsinki = 1
-    elif district in [np.nan, "missing"]:
-       	helsinki = np.nan
-    else:
-        helsinki = 0
-    return helsinki
-
-#getUrban
-#def getHelsinki(birthplace):
-#    if birthplace in ['Helsingin']:
-#       	urban = 1
-#    elif birthplace in [np.nan, "missing"]:
-#       	urban = np.nan
-#    else:
-#        urban = 0
-#    return urban
-
-
-############################################################################
-
-
 def getKokkesk(party):
     if party in ["Kansallisen kokoomuksen eduskuntaryhmä", "Suomalainen puolue"]:
         kokkesk = 1
@@ -200,7 +159,7 @@ def getVaskok(party):
 
 # Gender2: drop parties that do not have any females in SOME years (EXCEPT for SDP where no females only in 1918)
 
-def getGender2(party, female):
+def getGender2(female):
     if party in ["Alkiolainen keskustaryhmä", "Eduskuntaryhmä Immonen", "Eduskuntaryhmä Nuorsuomalaiset ja Risto Kuisma",
                    "Eduskuntaryhmä Puhjo", "Eduskuntaryhmä Virtanen", "Hannu Suhosen eduskuntaryhmä",
                    "Isänmaallinen kansanliike", "Kansalaispuolueen eduskuntaryhmä", "Kansallinen edistyspuolue", "Kansanpuolue",
@@ -224,7 +183,7 @@ def getGender2(party, female):
 
 # Gender: drop parties that do not have any females in ANY years
 
-def getGender(party, female):
+def getGender(female):
     if party in ["Alkiolainen keskustaryhmä", "Eduskuntaryhmä Immonen", "Eduskuntaryhmä Nuorsuomalaiset ja Risto Kuisma",
                    "Eduskuntaryhmä Puhjo", "Eduskuntaryhmä Virtanen", "Hannu Suhosen eduskuntaryhmä",
                    "Kansalaispuolueen eduskuntaryhmä", "Kansanpuolue",
@@ -242,82 +201,6 @@ def getGender(party, female):
             return 1
         else:
             return 0
-
-
-
-################# NEW STUFF ########################
-
-
-def getUnder40(year, birthyear):
-
-    year2 = int(year)
-
-    if pd.isna(birthyear):
-        return np.nan
-    else:
-        b2 = birthyear.strip("[']")
-        birthye = int(b2)
-        age = year2 - birthye
-
-        if age < 40:
-            return 1
-
-        if age >= 40:
-            return 0
-    
-
-def getWhiteCollar(profession):
-
-    if pd.isna(profession):
-        return np.nan
-
-    else:
-        
-        lst = ["opettaja", "tuomari", "asianajaja", "agronomi", "lisensiaatti", "lääkäri", "toimittaja", "johtaja", "sosionomi",
-           "kirjanpitäjä", "maisteri", "kirkkoherra", "rovasti", "insinööri", "sihteeeri", "professori", "tohtori",
-           "ministeri", "pastori", "neuvos", "kirjailija", "psykiatri", "kandidaatti", "ekonomi", "pormestari",
-           "suurlähettiläs", "konsuli", "lehtori", "lakimies", "päällikkö", "tarkastaja", "toimisto", "farmaseutti",
-           "arkkitehti", "piispa", "notaari", "rehtori", "tiedottaja", "markkinointikonsultti", "kirjuri", "konttoristi",
-           "analyytikko", "senaattori", "majuri", "kansleri", "aktuaari", "tutkija", "kenraali", "tradenomi", "merkonomi",
-           "kappalainen", "everstiluutnantti", "dosentti", "journalisti"]
-        lst2 = ["viljelijä", "kirvesmies", "vartija", "vahtimestari", "maalari", "viilaaja", "kauppias", "sairaanhoitaja",
-            "räätäli", "suutari", "posteljooni", "muurari", "perhepäivähoitaja", "myymälänhoitaja", "ompelija", "levyseppä",
-            "talonmies", "kultaseppä", "satamavalvoja", "rakennusmestari", "puvustonhoitaja", "seppä", "mylläri",
-            "liikunnanohjaaja", "konstaapeli", "vaatturi", "mestari", "veturinkuljettaja", "mäkitupalainen", "ulosottomies",
-            "työmies", "ylikonstaapeli", "ylikomisario", "emäntä", "isännöitsijä", "teknikko", "tehdas", "työläinen",
-            "hoitaja", "asioitsija", "asentaja", "faktori", "agrologi", "viilaaja", "kuljettaja", "kuljetusyrittäjä",
-            "työntekijä", "betoni", "raudoittaja", "sitoja", "sorvaaja", "torppari", "korjausmies", "valaja", "kaavaaja",
-            "muusikko", "palo", "verhoilija", "toimitsija", "kanttori", "urkuri", "asemamies", "kutoja", "leipuri",
-            "tilallinen", "kuljettaja", "kirjaltaja", "merikapteeni", "puutarhuri", "autoilija", "rautatieläinen",
-            "liikkenharjoittaja", "talollinen", "ajomies", "mekaanikko", "puutavaramies", "koneenkäyttäjä"]
-        if any(s in profession for s in lst):
-            return 1
-        elif any(s in profession for s in lst2):
-            return 0
-        else:
-            return np.nan
-        
-
-def getHigherEduc(education):
-
-    if pd.isna(education):
-        return np.nan
-
-    else:
-    
-        lst3 = ["tohtori", "maisteri", "kandidaatti", "lisensiaatti", "agronomi",  "professori", "notaari", "varatuomari"]
-
-        if any(s in education for s in lst3):
-            return 1
-
-        else:
-            return 0
-
-
-
-#####################################################
-
-
 
 
 ##################################################################################
@@ -361,25 +244,10 @@ df['demkok']  = df.apply(lambda x: getDemkok(x['party']), axis = 1)
 df['vaskok']  = df.apply(lambda x: getVaskok(x['party']), axis = 1)
 df['dialect'] = df.apply(lambda x: getDialect(x['first_district']), axis = 1)
 
-# gender added, helsinki added, uusimaa added
-df['gender']  = df.apply(lambda x: getGender(x['party'], x['female']), axis = 1)
-df['helsinki']  = df.apply(lambda x: getHelsinki(x['first_district']), axis = 1)
-df['uusimaa']  = df.apply(lambda x: getUusimaa(x['first_district']), axis = 1)
+# gender added
+df['gender']  = df.apply(lambda x: getGender(x['female']), axis = 1)
 
-# birthplace urban-rural
-#df['urban']  = df.apply(lambda x: getUrban(x['birthplace']), axis = 1)
-
-###new stuff
-#young
-df['under40']  = df.apply(lambda x: getUnder40(x['year'], x['birthyear']), axis = 1)
-#whitecollar
-df['whitecollar']  = df.apply(lambda x: getWhiteCollar(x['profession']), axis = 1)
-#highereducation
-df['education']  = df.apply(lambda x: getHigherEduc(x['education']), axis = 1)
-
-
-df = df[["year", "speaker_id", "id", "female", "gender", "party", "left", "green", "leftnonsmp", "leftnonvennamo", "govparty", "pmparty", "dialect", "kokkesk", "demkok",
-         "demkesk", "vaskok", "helsinki", "uusimaa", "under40", "whitecollar", "education"]]
+df = df[["year", "speaker_id", "id", "female", "gender", "party", "left", "green", "leftnonsmp", "leftnonvennamo", "govparty", "pmparty", "dialect", "kokkesk", "demkok", "demkesk", "vaskok"]]
 
 # rename female to gender
 # df.rename(columns={'female': 'gender'}, inplace=True)

@@ -1,0 +1,6 @@
+Hosts are
+0: di2
+di2
+slurmstepd: error: execve(): Rscript: No such file or directory
+srun: error: di2: task 0: Exited with exit code 2
+srun: Terminating job step 2490483.1

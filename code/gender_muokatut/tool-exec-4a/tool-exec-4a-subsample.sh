@@ -29,7 +29,7 @@ then
 elif [ $covariates == "c0_partyf" ]
 then
     srun Rscript subsampling-c0_partyf.R $SLURM_ARRAY_TASK_ID $partyvar $fake_indicator $penalty $Cpar
-
+    #srun Rscript strat-subsampling-c0_partyf.R $SLURM_ARRAY_TASK_ID $partyvar $fake_indicator $penalty $Cpar
 elif [ $covariates == "c1" ]
 then
     srun Rscript subsampling-c1.R $SLURM_ARRAY_TASK_ID $partyvar $fake_indicator $penalty $Cpar

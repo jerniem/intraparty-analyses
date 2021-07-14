@@ -1,0 +1,6 @@
+Hosts are
+0: di36
+di36
+/home/jernie/new_env/bin/python: can't open file 'fig-under40.py': [Errno 2] No such file or directory
+srun: error: di36: task 0: Exited with exit code 2
+srun: Terminating job step 2495892.1

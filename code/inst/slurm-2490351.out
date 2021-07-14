@@ -1,0 +1,6 @@
+Error in contrib.url(repos, type) : 
+  trying to use CRAN without setting a mirror
+Calls: install.packages -> startsWith -> contrib.url
+srun: error: di36: task 0: Exited with exit code 1
+srun: Terminating job step 2490351.0
+Execution halted

@@ -1,0 +1,6 @@
+Error in install_github("TaddyLab/distrom") : 
+  could not find function "install_github"
+Calls: <Anonymous> -> force
+srun: error: di36: task 0: Exited with exit code 1
+srun: Terminating job step 2490353.0
+Execution halted

@@ -1,0 +1,1500 @@
+Party variable: uusimaa, fake = 0, empirical: 0
+Infile:  partisanship-uusimaa_Cadj_c0_partyf.csv
+/home/jernie/analysis/output/uusimaa/partisanship-uusimaa_Cadj_c0_partyf.csv
+Year:  1907
+Too few MPs, uusimaa = 1: 13
+Making nan append for year  1907
+Year:  1908
+Too few MPs, uusimaa = 1: 14
+Making nan append for year  1908
+Year:  1909
+Too few MPs, uusimaa = 1: 11
+Making nan append for year  1909
+Year:  1910
+Too few MPs, uusimaa = 1: 12
+Making nan append for year  1910
+Year:  1911
+Too few MPs, uusimaa = 1: 12
+Making nan append for year  1911
+Year:  1912
+Too few MPs, uusimaa = 1: 9
+Making nan append for year  1912
+Year:  1913
+Too few MPs, uusimaa = 1: 11
+Making nan append for year  1913
+Year:  1914
+Too few MPs, uusimaa = 1: 13
+Making nan append for year  1914
+Year:  1915
+Parliament didn't gather, output nan
+Year:  1916
+Parliament didn't gather, output nan
+Year:  1917
+Min:  0.500556604462457 Median:  0.513149668120308 Mean:  0.514731728591774 Max:  0.538064296251849
+Year 1917 mean: 0.514732
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1917 0.512576118501765 0.5195603672483669 0.5101159936873275
+Year:  1918
+Too few MPs, uusimaa = 1: 10
+Making nan append for year  1918
+Year:  1919
+Min:  0.500191627240293 Median:  0.515570549570512 Mean:  0.5170603917813146 Max:  0.576019743364673
+Year 1919 mean: 0.517060
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1919 0.512786288345783 0.5229467034549966 0.5102494553439603
+Year:  1920
+Min:  0.500091097961318 Median:  0.5176533221151595 Mean:  0.5184998620434018 Max:  0.565745981929686
+Year 1920 mean: 0.518500
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1920 0.51318844071795 0.5201040544570981 0.5106257916711333
+Year:  1921
+Min:  0.500591764414143 Median:  0.5175276851360431 Mean:  0.5194305050773697 Max:  0.57108381414327
+Year 1921 mean: 0.519431
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1921 0.513486609654519 0.5224148489569939 0.510089476910454
+Year:  1922
+Min:  0.500124348427977 Median:  0.5098543711491366 Mean:  0.51061489223742 Max:  0.53634791374648
+Year 1922 mean: 0.510615
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1922 0.510542584522282 0.5164986741748125 0.5084043289746049
+Year:  1923
+Min:  0.50028347971365 Median:  0.515662097900714 Mean:  0.5175853834984909 Max:  0.571594458307731
+Year 1923 mean: 0.517585
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1923 0.511270394452872 0.5173804641945886 0.5089430896304966
+Year:  1924
+Min:  0.500962026018283 Median:  0.5155886022024065 Mean:  0.5172675143695457 Max:  0.568771516588006
+Year 1924 mean: 0.517268
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1924 0.513686966550045 0.519914300227013 0.5106966603591514
+Year:  1925
+Min:  0.502330161358203 Median:  0.5148093484227805 Mean:  0.5168738612642655 Max:  0.562574073346808
+Year 1925 mean: 0.516874
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1925 0.512659213299651 0.5202891833650376 0.509941921475985
+Year:  1926
+Min:  0.500118855621186 Median:  0.5132173215292319 Mean:  0.5144150136484421 Max:  0.541203771059692
+Year 1926 mean: 0.514415
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1926 0.513581281805456 0.5223239874014911 0.5104543775742497
+Year:  1927
+Min:  0.500383966636563 Median:  0.516687058015355 Mean:  0.5197758370485653 Max:  0.561536803131888
+Year 1927 mean: 0.519776
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1927 0.514750946966054 0.5216230581961906 0.5113377674941921
+Year:  1928
+Min:  0.500203724041861 Median:  0.516139273065677 Mean:  0.5170385103408845 Max:  0.549768309059508
+Year 1928 mean: 0.517039
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1928 0.516108065759477 0.5257746275801638 0.5121788478866207
+Year:  1929
+Min:  0.503478754723744 Median:  0.5158870863239695 Mean:  0.5167992827488553 Max:  0.546365755743666
+Year 1929 mean: 0.516799
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1929 0.518879671075049 0.5293353264953162 0.5153893656084076
+Year:  1930
+Min:  0.500156128173497 Median:  0.514572866001693 Mean:  0.5179098216711866 Max:  0.557798012886739
+Year 1930 mean: 0.517910
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1930 0.513408511229665 0.5225585497686944 0.510474127809287
+Year:  1931
+Min:  0.50013804663081 Median:  0.5119834953017406 Mean:  0.5128929119873772 Max:  0.539875838603756
+Year 1931 mean: 0.512893
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1931 0.514014903527841 0.5233745059835992 0.5106254863076867
+Year:  1932
+Min:  0.500164653503374 Median:  0.5126064182047549 Mean:  0.5144362835659819 Max:  0.544608142634035
+Year 1932 mean: 0.514436
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1932 0.517724116790211 0.5289663133900657 0.513257100207687
+Year:  1933
+Min:  0.500144876151532 Median:  0.5158283165000874 Mean:  0.5167173349452824 Max:  0.576486030197177
+Year 1933 mean: 0.516717
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1933 0.512898054753537 0.5212934267906573 0.5104683201036258
+Year:  1934
+Min:  0.500194211573931 Median:  0.5125170785443289 Mean:  0.5134714870227898 Max:  0.538972335806589
+Year 1934 mean: 0.513471
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1934 0.51441978014635 0.5250277803049452 0.5111763638855423
+Year:  1935
+Min:  0.500429313268969 Median:  0.5135175223553605 Mean:  0.5138690778037095 Max:  0.53373301174436
+Year 1935 mean: 0.513869
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1935 0.51288336394409 0.5204130634545702 0.5104964331734393
+Year:  1936
+Min:  0.50015866986746 Median:  0.5106129435795035 Mean:  0.5129914158949589 Max:  0.552560342056657
+Year 1936 mean: 0.512991
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1936 0.510546783450736 0.5193772416316241 0.5082835542842523
+Year:  1937
+Too few MPs, uusimaa = 1: 14
+Making nan append for year  1937
+Year:  1938
+Min:  0.500116700783424 Median:  0.5112668267902245 Mean:  0.5120827094447613 Max:  0.541240821071135
+Year 1938 mean: 0.512083
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1938 0.509674767839052 0.5207314001540155 0.5076869875756453
+Year:  1939
+Too few MPs, uusimaa = 1: 8
+Making nan append for year  1939
+Year:  1940
+Min:  0.500067476905685 Median:  0.5136497689335444 Mean:  0.5157215993870741 Max:  0.591368493483302
+Year 1940 mean: 0.515722
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1940 0.509736380685645 0.5175702477403363 0.5074609664597326
+Year:  1941
+Min:  0.500133084869138 Median:  0.5147097914941581 Mean:  0.5170077109656158 Max:  0.603615963250646
+Year 1941 mean: 0.517008
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1941 0.510126299406766 0.5157616215738691 0.5080629369086861
+Year:  1942
+Min:  0.500099890160371 Median:  0.5112795387110415 Mean:  0.5132786060027581 Max:  0.541515054931195
+Year 1942 mean: 0.513279
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1942 0.512610095141404 0.538878408956043 0.5092082289152976
+Year:  1943
+Min:  0.500137762199596 Median:  0.514288065615325 Mean:  0.5160756548881581 Max:  0.6046326353921
+Year 1943 mean: 0.516076
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1943 0.514088935991238 0.5207305240009369 0.5114174432250796
+Year:  1944
+Min:  0.500137252777138 Median:  0.515977848639652 Mean:  0.5168466913185261 Max:  0.54484585774822
+Year 1944 mean: 0.516847
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1944 0.511981473793802 0.5299591585882947 0.50925039345181
+Year:  1945
+Min:  0.501267917015055 Median:  0.5153569521411545 Mean:  0.5164812439766236 Max:  0.56530675493463
+Year 1945 mean: 0.516481
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1945 0.511396928626653 0.5210343545878561 0.5089750167027075
+Year:  1946
+Min:  0.501432141549535 Median:  0.5150484400746724 Mean:  0.5160007063801387 Max:  0.539813535548031
+Year 1946 mean: 0.516001
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1946 0.51083502454728 0.5182031991400086 0.508581565282676
+Year:  1947
+Min:  0.500698103906716 Median:  0.515401274295199 Mean:  0.5172445408124043 Max:  0.549798872789113
+Year 1947 mean: 0.517245
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1947 0.512909230349462 0.5199655111812836 0.5097693375112324
+Year:  1948
+Min:  0.500159950683469 Median:  0.5160260945830285 Mean:  0.5171227597498984 Max:  0.558334971191791
+Year 1948 mean: 0.517123
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1948 0.510776106243505 0.517137541216234 0.5087152566551846
+Year:  1949
+Min:  0.500350413280999 Median:  0.5126870657315525 Mean:  0.5138803204627598 Max:  0.5359200551927
+Year 1949 mean: 0.513880
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1949 0.510205562878836 0.5162653601143512 0.5079207758992184
+Year:  1950
+Min:  0.50037296942354 Median:  0.5132224147609681 Mean:  0.5141212039004386 Max:  0.537465452892469
+Year 1950 mean: 0.514121
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1950 0.513119947215289 0.5193820264116953 0.5104590994686566
+Year:  1951
+Min:  0.500507282783984 Median:  0.517546837189383 Mean:  0.5200023016446585 Max:  0.553701676988618
+Year 1951 mean: 0.520002
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1951 0.511973322909741 0.5177640521526311 0.5096354717621213
+Year:  1952
+Min:  0.502266632413459 Median:  0.513899220920954 Mean:  0.5162265706729233 Max:  0.539323370007859
+Year 1952 mean: 0.516227
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1952 0.512218215696399 0.5172255598100768 0.5094963343195267
+Year:  1953
+Min:  0.50011739965481 Median:  0.5132554231641995 Mean:  0.5140458600055154 Max:  0.534763783035103
+Year 1953 mean: 0.514046
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1953 0.5100596934003 0.5153771342651653 0.5079344899873938
+Year:  1954
+Min:  0.501886414264904 Median:  0.521499197369085 Mean:  0.5215538041430401 Max:  0.553569321878286
+Year 1954 mean: 0.521554
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1954 0.509086050493089 0.5142763693808442 0.5073555172733311
+Year:  1955
+Min:  0.501855501958732 Median:  0.515857373474756 Mean:  0.51774464796776 Max:  0.546691674789234
+Year 1955 mean: 0.517745
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1955 0.510739459266676 0.514233611266752 0.5085190347733568
+Year:  1956
+Min:  0.501013184002155 Median:  0.5159281705210215 Mean:  0.5176698815443548 Max:  0.538234342381841
+Year 1956 mean: 0.517670
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1956 0.511188230949306 0.5154955485480429 0.5087847720276144
+Year:  1957
+Min:  0.500565489447962 Median:  0.5171003514925 Mean:  0.5188918611296252 Max:  0.550622141836563
+Year 1957 mean: 0.518892
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1957 0.509845585534101 0.5143904614629324 0.5076717200235653
+Year:  1958
+Min:  0.501426323581603 Median:  0.516792764342345 Mean:  0.5172439919249702 Max:  0.553597706301819
+Year 1958 mean: 0.517244
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1958 0.507116363854529 0.5114695369033813 0.5054696646754703
+Year:  1959
+Min:  0.500069433740351 Median:  0.515436017914445 Mean:  0.5166248677859899 Max:  0.537187342241985
+Year 1959 mean: 0.516625
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1959 0.508601915553977 0.5125281290922851 0.5067347532003375
+Year:  1960
+Min:  0.502288627186572 Median:  0.516155735537962 Mean:  0.5169472710467935 Max:  0.537469049818744
+Year 1960 mean: 0.516947
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1960 0.506366861785231 0.5093553996777747 0.504989622803428
+Year:  1961
+Min:  0.500398044166302 Median:  0.51687103491402 Mean:  0.518343361338224 Max:  0.544504677853589
+Year 1961 mean: 0.518343
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1961 0.508430515349129 0.5115189116295522 0.5067871909306968
+Year:  1962
+Min:  0.501779087672202 Median:  0.516578890005309 Mean:  0.5162945664048046 Max:  0.54101134510737
+Year 1962 mean: 0.516295
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1962 0.509469661288372 0.5149664163039488 0.5075849193455892
+Year:  1963
+Min:  0.501860283016746 Median:  0.5153454657093111 Mean:  0.5164835153710883 Max:  0.539142111191916
+Year 1963 mean: 0.516484
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1963 0.507802851558487 0.5111942769364335 0.5061812704322635
+Year:  1964
+Min:  0.503452054686036 Median:  0.5161089910597796 Mean:  0.5169919985436231 Max:  0.538796392593007
+Year 1964 mean: 0.516992
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1964 0.506337796412998 0.5094829082399569 0.504956812592113
+Year:  1965
+Min:  0.500946384935761 Median:  0.5177021998485349 Mean:  0.5187962611732122 Max:  0.549444513678593
+Year 1965 mean: 0.518796
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1965 0.507531776199279 0.5111386042454311 0.5059046434574258
+Year:  1966
+Min:  0.502301334383405 Median:  0.5208449385760849 Mean:  0.5223254190557943 Max:  0.55886160869515
+Year 1966 mean: 0.522325
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1966 0.509553893678758 0.514380307378181 0.5076948127144482
+Year:  1967
+Min:  0.502124448706531 Median:  0.5196962573370745 Mean:  0.5232456088477344 Max:  0.566310780921664
+Year 1967 mean: 0.523246
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1967 0.508770145327565 0.5117702463959689 0.5070545682943786
+Year:  1968
+Min:  0.507057664575663 Median:  0.523051717918263 Mean:  0.5238352880135224 Max:  0.556799016605912
+Year 1968 mean: 0.523835
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1968 0.510619212709638 0.5143817983447869 0.508451328250501
+Year:  1969
+Min:  0.501968487777445 Median:  0.5183897055828319 Mean:  0.5191542073315505 Max:  0.545401179699222
+Year 1969 mean: 0.519154
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1969 0.511948922918402 0.5180073971875685 0.5097220734914318
+Year:  1970
+Min:  0.50107007080005 Median:  0.517857131456121 Mean:  0.519997017005058 Max:  0.573759278468828
+Year 1970 mean: 0.519997
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1970 0.512009087770596 0.5176710456795544 0.5095066775069513
+Year:  1971
+Min:  0.50318010008451 Median:  0.5178029374684435 Mean:  0.5192851697403359 Max:  0.544103927014441
+Year 1971 mean: 0.519285
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1971 0.511972679954261 0.5171680394910151 0.5094208295596947
+Year:  1972
+Min:  0.502384644733495 Median:  0.518260418881636 Mean:  0.5202016611514405 Max:  0.559746803023445
+Year 1972 mean: 0.520202
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1972 0.510187309960554 0.5142137147726592 0.5081505492433039
+Year:  1973
+Min:  0.506118672315015 Median:  0.5193258506599046 Mean:  0.5220184686692273 Max:  0.572726242490258
+Year 1973 mean: 0.522018
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1973 0.511394393817146 0.5166523730936644 0.5093015335259004
+Year:  1974
+Min:  0.503037147402733 Median:  0.5222157534948015 Mean:  0.5251508289443183 Max:  0.559976358901819
+Year 1974 mean: 0.525151
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1974 0.513082199659736 0.5183042119254834 0.5102391961114037
+Year:  1975
+Min:  0.504270177098981 Median:  0.5202601826287525 Mean:  0.5213386866442893 Max:  0.556967679449996
+Year 1975 mean: 0.521339
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1975 0.51400534971457 0.5196924472377409 0.5115921234007166
+Year:  1976
+Min:  0.502489960415403 Median:  0.5170830307520355 Mean:  0.5202755041952296 Max:  0.574755684472016
+Year 1976 mean: 0.520276
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1976 0.511482161415923 0.5165083634544101 0.5091970006935802
+Year:  1977
+Min:  0.505957890213488 Median:  0.5168955205400201 Mean:  0.5186246332008071 Max:  0.559119818004904
+Year 1977 mean: 0.518625
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1977 0.513935113542364 0.5193389927410971 0.5114034941983532
+Year:  1978
+Min:  0.502505534175153 Median:  0.520728960506326 Mean:  0.5222631544429521 Max:  0.55907616961739
+Year 1978 mean: 0.522263
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1978 0.514051995088463 0.5205233215189146 0.5107839765766982
+Year:  1979
+Min:  0.504509833776001 Median:  0.5169620983201284 Mean:  0.5191637408749361 Max:  0.546295913133387
+Year 1979 mean: 0.519164
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1979 0.511823661650241 0.5174725683201625 0.5094367074482667
+Year:  1980
+Min:  0.5050316026177 Median:  0.5175128974990539 Mean:  0.5191827261527907 Max:  0.549871826028968
+Year 1980 mean: 0.519183
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1980 0.510934556564562 0.5162125745310483 0.508803429834929
+Year:  1981
+Min:  0.501750617251081 Median:  0.517569800302755 Mean:  0.5187498683463598 Max:  0.545695261237128
+Year 1981 mean: 0.518750
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1981 0.510474513292233 0.5149911394171968 0.5083783514767194
+Year:  1982
+Min:  0.502622433562802 Median:  0.5162521546313745 Mean:  0.5180321207927904 Max:  0.551307312284939
+Year 1982 mean: 0.518032
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1982 0.51183041629398 0.5200177503821752 0.5089686819136013
+Year:  1983
+Min:  0.503362006534299 Median:  0.5172659734780615 Mean:  0.519718162179466 Max:  0.550536756036187
+Year 1983 mean: 0.519718
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1983 0.512361510397593 0.5181822559900479 0.5093242776373298
+Year:  1984
+Min:  0.502698645372153 Median:  0.517145871915187 Mean:  0.5175415438723643 Max:  0.540378209070782
+Year 1984 mean: 0.517542
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1984 0.512279695784678 0.5192959173817289 0.5100749276577992
+Year:  1985
+Min:  0.505376649615282 Median:  0.5182953266103034 Mean:  0.5192838026020707 Max:  0.548035126139992
+Year 1985 mean: 0.519284
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1985 0.515102654894103 0.5218445156408826 0.5122837041143883
+Year:  1986
+Min:  0.502352352332798 Median:  0.5169976769018515 Mean:  0.5190147724106903 Max:  0.55237696017933
+Year 1986 mean: 0.519015
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1986 0.512473457945859 0.5197548292314351 0.5094006025950848
+Year:  1987
+Min:  0.502210971628349 Median:  0.5154022141184496 Mean:  0.518120645335237 Max:  0.5622212061829
+Year 1987 mean: 0.518121
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1987 0.510325390876901 0.5158324758600638 0.5079598897978315
+Year:  1988
+Min:  0.501765163482214 Median:  0.5158755600129015 Mean:  0.5188609172068486 Max:  0.565317975831419
+Year 1988 mean: 0.518861
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1988 0.511862046772956 0.5180615014979562 0.5093458040010886
+Year:  1989
+Min:  0.50264590773722 Median:  0.514456565578174 Mean:  0.5175775902023865 Max:  0.553162963190734
+Year 1989 mean: 0.517578
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1989 0.512764504859336 0.5191143854262756 0.5098547342030306
+Year:  1990
+Min:  0.501594899460145 Median:  0.5154585566884415 Mean:  0.5163074542222666 Max:  0.550315900887942
+Year 1990 mean: 0.516307
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1990 0.512237823448606 0.5176178153184992 0.5101131370424768
+Year:  1991
+Min:  0.503199026233301 Median:  0.517084513410232 Mean:  0.5182122139846541 Max:  0.544673992978887
+Year 1991 mean: 0.518212
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1991 0.509772619291685 0.5142596803535373 0.5077853892443577
+Year:  1992
+Min:  0.50299877947388 Median:  0.5169383336050385 Mean:  0.5184280864650259 Max:  0.548557206565656
+Year 1992 mean: 0.518428
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1992 0.510686886784936 0.5160756998185234 0.5083879915391902
+Year:  1993
+Min:  0.503576221171208 Median:  0.5173580077608531 Mean:  0.5190405348871873 Max:  0.55640811290429
+Year 1993 mean: 0.519041
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1993 0.509588770831583 0.5146200411032855 0.5077261525227444
+Year:  1994
+Min:  0.502152810378985 Median:  0.516953354015597 Mean:  0.5185184423693324 Max:  0.553621472850409
+Year 1994 mean: 0.518518
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1994 0.511677589946229 0.5189974214847187 0.5093697297991769
+Year:  1995
+Min:  0.502341800661814 Median:  0.519926202618326 Mean:  0.5210816492377003 Max:  0.56442417772941
+Year 1995 mean: 0.521082
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1995 0.512259736017113 0.5179659632506021 0.5100719109457423
+Year:  1996
+Min:  0.502376225804476 Median:  0.5155057406789134 Mean:  0.5161591507466349 Max:  0.545127330810387
+Year 1996 mean: 0.516159
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1996 0.511021094688998 0.5165329924505658 0.5087283156362329
+Year:  1997
+Min:  0.504454748469084 Median:  0.5165278270163745 Mean:  0.5172493367702505 Max:  0.548152632657328
+Year 1997 mean: 0.517249
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1997 0.511242318906418 0.516464301937378 0.508911150217641
+Year:  1998
+Min:  0.501676793490168 Median:  0.5155869529969954 Mean:  0.5170457956485079 Max:  0.543583904550169
+Year 1998 mean: 0.517046
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1998 0.511104221542284 0.5185048736310992 0.5088441950294861
+Year:  1999
+Min:  0.503721510305753 Median:  0.5163313860331215 Mean:  0.5181405906484892 Max:  0.543797365972572
+Year 1999 mean: 0.518141
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1999 0.512279213203859 0.5189689518521039 0.5095636279048471
+Year:  2000
+Min:  0.501818044881185 Median:  0.517513202895451 Mean:  0.5194401220157636 Max:  0.545111299758007
+Year 2000 mean: 0.519440
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2000 0.511597876757462 0.5172120698664491 0.5089901425576628
+Year:  2001
+Min:  0.504362118441195 Median:  0.518748104166695 Mean:  0.5201317085034901 Max:  0.550828089712352
+Year 2001 mean: 0.520132
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2001 0.512597692994323 0.520019442037245 0.5098475910727903
+Year:  2002
+Min:  0.502153189955774 Median:  0.516819092426712 Mean:  0.5173063671599379 Max:  0.555288731539038
+Year 2002 mean: 0.517306
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2002 0.511133967934368 0.5178403099242908 0.5084934554832117
+Year:  2003
+Min:  0.50397171326011 Median:  0.5184404785312515 Mean:  0.520381232559021 Max:  0.55276353216603
+Year 2003 mean: 0.520381
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2003 0.512252984543381 0.5178761954255654 0.5098261325268202
+Year:  2004
+Min:  0.503467137471126 Median:  0.518581165096005 Mean:  0.5193376622184035 Max:  0.54736723814741
+Year 2004 mean: 0.519338
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2004 0.51412790978143 0.5205220153726297 0.511300760888285
+Year:  2005
+Min:  0.502373504019461 Median:  0.5195844199120785 Mean:  0.5213847129123629 Max:  0.553745216128827
+Year 2005 mean: 0.521385
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2005 0.511951683989186 0.51915453188925 0.5093165699807469
+Year:  2006
+Min:  0.502558822593755 Median:  0.5187605132023485 Mean:  0.5222955794119228 Max:  0.562098830679359
+Year 2006 mean: 0.522296
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2006 0.513458320267728 0.5203032698772583 0.5102877396774572
+Year:  2007
+Min:  0.505154758487593 Median:  0.5198057441668289 Mean:  0.5219867043756693 Max:  0.561865728354641
+Year 2007 mean: 0.521987
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2007 0.511733964512636 0.5163406167403225 0.5091448539012705
+Year:  2008
+Min:  0.502859101142999 Median:  0.5207437681864611 Mean:  0.521420221032266 Max:  0.54775110497207
+Year 2008 mean: 0.521420
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2008 0.515185446703604 0.5232711344282489 0.5118382987696997
+Year:  2009
+Min:  0.504060621870246 Median:  0.5192068475798945 Mean:  0.522511887987636 Max:  0.563630947815663
+Year 2009 mean: 0.522512
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2009 0.511684640197758 0.5163214460101084 0.509314750590334
+Year:  2010
+Min:  0.504961491058585 Median:  0.5208431865228744 Mean:  0.5223878588584714 Max:  0.560251505365962
+Year 2010 mean: 0.522388
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2010 0.512837541953821 0.5184441539680388 0.509960836300368
+Year:  2011
+Min:  0.505949616353326 Median:  0.524863839103278 Mean:  0.5257899369899736 Max:  0.557268215683451
+Year 2011 mean: 0.525790
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2011 0.512346847632453 0.5166191328388696 0.5101037130415588
+Year:  2012
+Min:  0.504913558390127 Median:  0.5219553138659181 Mean:  0.523142170558862 Max:  0.555551456564493
+Year 2012 mean: 0.523142
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2012 0.512443292111793 0.5178801988785592 0.5100552187818079
+Year:  2013
+Min:  0.507428005870412 Median:  0.5215754715901645 Mean:  0.5240483193170874 Max:  0.571423208740305
+Year 2013 mean: 0.524048
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2013 0.511983393915266 0.5173589309649224 0.5093489138038806
+Year:  2014
+Min:  0.506085193288147 Median:  0.5229335221442055 Mean:  0.5257443186392239 Max:  0.565821241173054
+Year 2014 mean: 0.525744
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2014 0.514388307154896 0.5212917201915365 0.5114021351545974
+Year:  2015
+Min:  0.503540327722501 Median:  0.5209996381216755 Mean:  0.5240665277237369 Max:  0.558735794995051
+Year 2015 mean: 0.524067
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2015 0.511997282625581 0.5178084652811386 0.5094387744944954
+Year:  2016
+Min:  0.505574216531333 Median:  0.5205381975096499 Mean:  0.5230304744544036 Max:  0.563947019835111
+Year 2016 mean: 0.523030
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2016 0.510305066476355 0.5153996534344036 0.5079666203022308
+Year:  2017
+Min:  0.501836784541947 Median:  0.519926813310659 Mean:  0.5221388104140369 Max:  0.551503029125034
+Year 2017 mean: 0.522139
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2017 0.510357967539972 0.5153459230540269 0.5080205439452414
+Year:  2018
+Min:  0.502390117973231 Median:  0.518778470052687 Mean:  0.520464500445653 Max:  0.556032878215823
+Year 2018 mean: 0.520465
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2018 0.509929885960714 0.5148205975324512 0.5078376912144615
+Output written to  /home/jernie/analysis/output/uusimaa/partisanship-uusimaa_Cadj_c0_partyf-cis.csv
+Party variable: uusimaa, fake = 1, empirical: 0
+Infile:  partisanship-uusimaa_randlabels_Cadj_c0_partyf.csv
+/home/jernie/analysis/output/uusimaa/partisanship-uusimaa_randlabels_Cadj_c0_partyf.csv
+Year:  1907
+Min:  0.500028785383715 Median:  0.5057724416230995 Mean:  0.5064726700769417 Max:  0.528795170287435
+Year 1907 mean: 0.506473
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1907 0.501884721176378 0.5072845632374894 0.5013181158156718
+Year:  1908
+Min:  0.500049869752319 Median:  0.5089695222030555 Mean:  0.5110523042493946 Max:  0.54291696058374
+Year 1908 mean: 0.511052
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1908 0.501846966966085 0.5040993710264702 0.5013754515999018
+Year:  1909
+Min:  0.500376177464823 Median:  0.5077471998673425 Mean:  0.509529777480397 Max:  0.551116067880886
+Year 1909 mean: 0.509530
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1909 0.501365552039727 0.502544805930798 0.5009539356432965
+Year:  1910
+Min:  0.50003826149877 Median:  0.5077432822284831 Mean:  0.509460789579608 Max:  0.535422645172564
+Year 1910 mean: 0.509461
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1910 0.501150114696345 0.502486618847908 0.5008336342138219
+Year:  1911
+Too few MPs, randlabel = 1: 11
+Making nan append for year  1911
+Year:  1912
+Min:  0.500039336539665 Median:  0.5036465964791135 Mean:  0.5060996643377141 Max:  0.538981566314678
+Year 1912 mean: 0.506100
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1912 0.501618845847967 0.5058155063909094 0.5011080090941017
+Year:  1913
+Min:  0.50010955873564 Median:  0.5087456173920735 Mean:  0.5102237362220512 Max:  0.530002321361193
+Year 1913 mean: 0.510224
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1913 0.501736137003011 0.5044269242510704 0.501269651912117
+Year:  1914
+Min:  0.500060223412694 Median:  0.5046149752007114 Mean:  0.5069343639970334 Max:  0.524399189311423
+Year 1914 mean: 0.506934
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1914 0.502850229133885 0.5088648887534082 0.5018732054140816
+Year:  1915
+Parliament didn't gather, output nan
+Year:  1916
+Parliament didn't gather, output nan
+Year:  1917
+Min:  0.500399198610422 Median:  0.5085097298004175 Mean:  0.5100069085074432 Max:  0.52855472455429
+Year 1917 mean: 0.510007
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1917 0.502987955472781 0.5061240831220288 0.5021486969412049
+Year:  1918
+Too few MPs, randlabel = 1: 10
+Making nan append for year  1918
+Year:  1919
+Min:  0.50018077104584 Median:  0.509854981649037 Mean:  0.5103502520854136 Max:  0.545217093610489
+Year 1919 mean: 0.510350
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1919 0.503000869085722 0.5089248440179647 0.5021419076028609
+Year:  1920
+Min:  0.500058084448981 Median:  0.504494743762994 Mean:  0.5060366845513192 Max:  0.52440543747668
+Year 1920 mean: 0.506037
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1920 0.502072547319226 0.5066337683247085 0.5014498128051738
+Year:  1921
+Min:  0.50010388036332 Median:  0.5074146675888416 Mean:  0.5077586517285053 Max:  0.523847457114126
+Year 1921 mean: 0.507759
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1921 0.50617652822121 0.5125572563010868 0.5045690132189511
+Year:  1922
+Min:  0.500079097254866 Median:  0.5070037154222216 Mean:  0.5092478889680078 Max:  0.538647937508358
+Year 1922 mean: 0.509248
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1922 0.502741632106459 0.5079412553642932 0.501934040806481
+Year:  1923
+Min:  0.500049381764539 Median:  0.5056572499631685 Mean:  0.5069157464951841 Max:  0.526475320123733
+Year 1923 mean: 0.506916
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1923 0.501899757849384 0.5076138143843155 0.5012713050972856
+Year:  1924
+Min:  0.500050697887775 Median:  0.508532455044084 Mean:  0.5091436320941377 Max:  0.527860889616557
+Year 1924 mean: 0.509144
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1924 0.506068906695136 0.5143823125802545 0.5045260020047679
+Year:  1925
+Min:  0.500058839826948 Median:  0.504958691044213 Mean:  0.5062106784053177 Max:  0.528258678346362
+Year 1925 mean: 0.506211
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1925 0.501887449708873 0.5045069440501364 0.5013740636743452
+Year:  1926
+Min:  0.500075888450538 Median:  0.507350100940565 Mean:  0.5085375120894116 Max:  0.522916780901233
+Year 1926 mean: 0.508538
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1926 0.506371029290556 0.5130953556030808 0.5046845743330122
+Year:  1927
+Min:  0.500540110802978 Median:  0.506280948760899 Mean:  0.5075889735497772 Max:  0.530391963100866
+Year 1927 mean: 0.507589
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1927 0.504383441128532 0.5077303030155564 0.5033752324307815
+Year:  1928
+Min:  0.500042308562949 Median:  0.506524087064305 Mean:  0.5072134605339997 Max:  0.558589774738195
+Year 1928 mean: 0.507213
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1928 0.502501650619726 0.5061156409541483 0.5019259197378171
+Year:  1929
+Min:  0.50013155273784 Median:  0.5052357743451815 Mean:  0.5068258393083627 Max:  0.521378023143848
+Year 1929 mean: 0.506826
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1929 0.503236042371314 0.5065142233570978 0.5023317964904477
+Year:  1930
+Min:  0.500055213873456 Median:  0.5070996922033195 Mean:  0.5081246119145308 Max:  0.531498293494318
+Year 1930 mean: 0.508125
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1930 0.504816127147866 0.5105724343534056 0.5035138167254831
+Year:  1931
+Min:  0.500035779027925 Median:  0.503656135983485 Mean:  0.5052508398372335 Max:  0.522207446164721
+Year 1931 mean: 0.505251
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1931 0.50368993839571 0.5088447490792384 0.5025828141607589
+Year:  1932
+Min:  0.500052726415351 Median:  0.5055226894815255 Mean:  0.5068198190387133 Max:  0.52488637352448
+Year 1932 mean: 0.506820
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1932 0.503123071568457 0.5071186985049875 0.502174042055099
+Year:  1933
+Min:  0.500046544183086 Median:  0.5059100895091885 Mean:  0.5077423773035854 Max:  0.540317910996092
+Year 1933 mean: 0.507742
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1933 0.502160053703734 0.506314528268026 0.5015101744999175
+Year:  1934
+Min:  0.500095621133291 Median:  0.508345049027499 Mean:  0.5110678859147508 Max:  0.533252789427279
+Year 1934 mean: 0.511068
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1934 0.504246494447518 0.5077819348434798 0.5030277459510623
+Year:  1935
+Min:  0.500084713593464 Median:  0.5045945458096155 Mean:  0.5060632211127508 Max:  0.536738891162071
+Year 1935 mean: 0.506063
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1935 0.502872392661517 0.5072446248740826 0.5020756175144483
+Year:  1936
+Min:  0.500099239653836 Median:  0.5078364350960075 Mean:  0.5088691888861799 Max:  0.531788278845621
+Year 1936 mean: 0.508869
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1936 0.50292845549431 0.5068946490965028 0.5021329205927944
+Year:  1937
+Min:  0.500058020258866 Median:  0.5054930183724895 Mean:  0.5063458303876934 Max:  0.525706682100454
+Year 1937 mean: 0.506346
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1937 0.503052067324341 0.5063378528692972 0.502201025201512
+Year:  1938
+Min:  0.500042174131359 Median:  0.5041419628891926 Mean:  0.5060668598061151 Max:  0.536757752045835
+Year 1938 mean: 0.506067
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1938 0.502468829165414 0.5051472059984254 0.5017296870463867
+Year:  1939
+Too few MPs, randlabel = 1: 9
+Making nan append for year  1939
+Year:  1940
+Min:  0.500053671312651 Median:  0.5065146826194844 Mean:  0.5073963968023816 Max:  0.525199582464737
+Year 1940 mean: 0.507396
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1940 0.502932408732742 0.5073824979936727 0.5021688109376992
+Year:  1941
+Min:  0.500040846346544 Median:  0.5038605562071095 Mean:  0.5051280381644953 Max:  0.531444920921212
+Year 1941 mean: 0.505128
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1941 0.501156113006466 0.5030349932931489 0.5008254516177195
+Year:  1942
+Min:  0.500043477044388 Median:  0.5094319379510315 Mean:  0.5105863574851671 Max:  0.539330196540321
+Year 1942 mean: 0.510586
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1942 0.503626728594145 0.5068471752738699 0.5027823922113098
+Year:  1943
+Min:  0.500039872904599 Median:  0.505502557152284 Mean:  0.5074113895147332 Max:  0.544705235760551
+Year 1943 mean: 0.507411
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1943 0.502822585346602 0.5067615926649406 0.5020381897978734
+Year:  1944
+Min:  0.500053300448194 Median:  0.506357351903842 Mean:  0.5092446465776463 Max:  0.535097109242121
+Year 1944 mean: 0.509245
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1944 0.505794993023778 0.5133851905278352 0.5040080504304443
+Year:  1945
+Min:  0.500091902037711 Median:  0.5090931187198375 Mean:  0.5105729279422055 Max:  0.531491669516202
+Year 1945 mean: 0.510573
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1945 0.504570091451415 0.5091098809042957 0.5033028728298631
+Year:  1946
+Min:  0.500462310180704 Median:  0.5074166209678874 Mean:  0.5093129463512224 Max:  0.541488572885734
+Year 1946 mean: 0.509313
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1946 0.503971222984436 0.5092020521326706 0.5029459671078534
+Year:  1947
+Min:  0.500062408932276 Median:  0.5064825953162915 Mean:  0.5079086159027698 Max:  0.527146136359243
+Year 1947 mean: 0.507909
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1947 0.50364497690393 0.5065685378241418 0.5026502586857503
+Year:  1948
+Min:  0.500052976360281 Median:  0.508375297815427 Mean:  0.509378219071613 Max:  0.528265884848017
+Year 1948 mean: 0.509378
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1948 0.503605750313943 0.509055712228431 0.502557870369857
+Year:  1949
+Min:  0.500372831245295 Median:  0.50671494612479 Mean:  0.5079292516802963 Max:  0.525024306166559
+Year 1949 mean: 0.507929
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1949 0.502898533631146 0.5060163725399188 0.502069229795004
+Year:  1950
+Min:  0.500183613806752 Median:  0.5084749274647695 Mean:  0.5096570199333351 Max:  0.529234407945951
+Year 1950 mean: 0.509657
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1950 0.507723602961081 0.5147908310278807 0.5057589678119577
+Year:  1951
+Min:  0.500032229350318 Median:  0.508455445232503 Mean:  0.5092833092452286 Max:  0.532753469121398
+Year 1951 mean: 0.509283
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1951 0.505153603109106 0.5116701183999329 0.5038442154381773
+Year:  1952
+Min:  0.500378103379687 Median:  0.507470357253316 Mean:  0.5087044842191353 Max:  0.532098862825475
+Year 1952 mean: 0.508704
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1952 0.506001175306842 0.5118931696818884 0.5043225767567163
+Year:  1953
+Min:  0.500349126815818 Median:  0.506769189684371 Mean:  0.5082646731089473 Max:  0.528204980115359
+Year 1953 mean: 0.508265
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1953 0.503456133774439 0.5068679308412659 0.5025884305054162
+Year:  1954
+Min:  0.500043684108375 Median:  0.5083738589472551 Mean:  0.51052389978019 Max:  0.538686773803537
+Year 1954 mean: 0.510524
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1954 0.503126606960799 0.5058765196167537 0.5022666831928441
+Year:  1955
+Min:  0.500533609608788 Median:  0.507298478411934 Mean:  0.5098874860848405 Max:  0.535318245512145
+Year 1955 mean: 0.509887
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1955 0.504295970731154 0.5092617213255585 0.5028990770542907
+Year:  1956
+Min:  0.500270913579924 Median:  0.5096798356034264 Mean:  0.5112966412609923 Max:  0.542228649871453
+Year 1956 mean: 0.511297
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1956 0.505015673445199 0.5088722828732672 0.5037729248818564
+Year:  1957
+Min:  0.501230763131532 Median:  0.510673172821045 Mean:  0.5113147352720483 Max:  0.534692810758539
+Year 1957 mean: 0.511315
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1957 0.504287890050372 0.5083191528250133 0.5032319126734777
+Year:  1958
+Min:  0.500054915136553 Median:  0.507770016199398 Mean:  0.5086826298920026 Max:  0.526882479080234
+Year 1958 mean: 0.508683
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1958 0.502800707086683 0.5058273711056461 0.5020608890485206
+Year:  1959
+Min:  0.500082215348239 Median:  0.5063879924377646 Mean:  0.5083527546717362 Max:  0.532539096731693
+Year 1959 mean: 0.508353
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1959 0.503325988035707 0.5069588919087819 0.5024235467687455
+Year:  1960
+Min:  0.500588207131432 Median:  0.506256807798817 Mean:  0.5075971566926417 Max:  0.525247678554643
+Year 1960 mean: 0.507597
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1960 0.503195343965866 0.5058423213067199 0.5022445001084667
+Year:  1961
+Min:  0.500163553022706 Median:  0.5086016547966066 Mean:  0.5099352557251339 Max:  0.537496650255913
+Year 1961 mean: 0.509935
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1961 0.503148370171353 0.506304079786531 0.5023963466512701
+Year:  1962
+Min:  0.500216779798061 Median:  0.5072683239961044 Mean:  0.5086529060301832 Max:  0.532384505276835
+Year 1962 mean: 0.508653
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1962 0.503326643832333 0.5059648014956225 0.5024127324273273
+Year:  1963
+Min:  0.50004851314466 Median:  0.507186872565249 Mean:  0.5086922040884111 Max:  0.53988013657321
+Year 1963 mean: 0.508692
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1963 0.503787559994413 0.5071379801560532 0.5028690873925923
+Year:  1964
+Min:  0.500560761213586 Median:  0.5076820949436955 Mean:  0.5083283016496583 Max:  0.529436902155387
+Year 1964 mean: 0.508328
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1964 0.504358889175447 0.5090367314867524 0.5031713438800824
+Year:  1965
+Min:  0.500169105011825 Median:  0.5068289158867025 Mean:  0.5090321842301598 Max:  0.528891255171155
+Year 1965 mean: 0.509032
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1965 0.503184546211455 0.5060459045744674 0.5022718056995754
+Year:  1966
+Min:  0.500146086231336 Median:  0.5122691628742666 Mean:  0.5137966818531365 Max:  0.546802544912869
+Year 1966 mean: 0.513797
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1966 0.505504758141456 0.512427014073452 0.5041136313397397
+Year:  1967
+Min:  0.500667579673198 Median:  0.512114506160429 Mean:  0.5133644062844831 Max:  0.536166745119388
+Year 1967 mean: 0.513364
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1967 0.505222762085946 0.5095714741056677 0.5040210108601393
+Year:  1968
+Min:  0.500717662595526 Median:  0.509249035673421 Mean:  0.5102163841635503 Max:  0.540083129495905
+Year 1968 mean: 0.510216
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1968 0.50467295608434 0.5093903417376335 0.5035030105713942
+Year:  1969
+Min:  0.500236148071572 Median:  0.507631034009168 Mean:  0.5095390757685851 Max:  0.53836812116564
+Year 1969 mean: 0.509539
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1969 0.507205833847201 0.5135512037386565 0.5054069377771442
+Year:  1970
+Min:  0.500840747972206 Median:  0.5102959268287215 Mean:  0.5120201929658145 Max:  0.546607449614791
+Year 1970 mean: 0.512020
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1970 0.508439034856111 0.5144928828514149 0.5062452969281299
+Year:  1971
+Min:  0.500834626561155 Median:  0.508821488574378 Mean:  0.510939459593199 Max:  0.549067069845412
+Year 1971 mean: 0.510939
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1971 0.511749147141725 0.5216006536254172 0.5086538569834825
+Year:  1972
+Min:  0.500774225982624 Median:  0.508619229253122 Mean:  0.5111435767174783 Max:  0.546581567218724
+Year 1972 mean: 0.511144
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1972 0.504600528521084 0.5102650218733498 0.5033881125694372
+Year:  1973
+Min:  0.500646018612026 Median:  0.5087437434359465 Mean:  0.510185038804469 Max:  0.538616425739576
+Year 1973 mean: 0.510185
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1973 0.511959518889697 0.5243657926956959 0.5088000918486819
+Year:  1974
+Min:  0.501003294626686 Median:  0.5090363321807709 Mean:  0.5121773392641003 Max:  0.5443729327572
+Year 1974 mean: 0.512177
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1974 0.512946556005387 0.5256551488099853 0.5090009313166324
+Year:  1975
+Min:  0.50104059751682 Median:  0.5103755602840485 Mean:  0.5108494818739054 Max:  0.531038334105006
+Year 1975 mean: 0.510849
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1975 0.505985346946201 0.509390846040286 0.5046330262616037
+Year:  1976
+Min:  0.500718109304804 Median:  0.5077222336430429 Mean:  0.5101816062380218 Max:  0.530174287081446
+Year 1976 mean: 0.510182
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1976 0.505260950933243 0.5088196415486189 0.5037237418032025
+Year:  1977
+Min:  0.500301511331404 Median:  0.5076916173209776 Mean:  0.5081936521075082 Max:  0.536984862358357
+Year 1977 mean: 0.508194
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1977 0.506547395644862 0.5137166082423986 0.5050050913402453
+Year:  1978
+Min:  0.500537530488779 Median:  0.512732498076323 Mean:  0.5146720576608046 Max:  0.546368576233763
+Year 1978 mean: 0.514672
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1978 0.507582116819999 0.5130291668621205 0.5056648949673341
+Year:  1979
+Min:  0.500458517617892 Median:  0.5065067979703439 Mean:  0.5085843183615256 Max:  0.529079810780816
+Year 1979 mean: 0.508584
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1979 0.506664758017965 0.5152486020784901 0.50462594853262
+Year:  1980
+Min:  0.501125326268744 Median:  0.50928930302522 Mean:  0.5105467518049291 Max:  0.536296258816771
+Year 1980 mean: 0.510547
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1980 0.508907634002034 0.5173345276671845 0.5066704661202159
+Year:  1981
+Min:  0.500378445100969 Median:  0.5078204205431635 Mean:  0.5105252817422601 Max:  0.552678635567286
+Year 1981 mean: 0.510525
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1981 0.507209790669607 0.516967512940532 0.5051453205137311
+Year:  1982
+Min:  0.500977181565511 Median:  0.5090748038530639 Mean:  0.5110846355974445 Max:  0.549940174024564
+Year 1982 mean: 0.511085
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1982 0.508120897913187 0.5168934892165991 0.5059114515811983
+Year:  1983
+Min:  0.500731670890636 Median:  0.5091626996606424 Mean:  0.5111498477526616 Max:  0.542280404712119
+Year 1983 mean: 0.511150
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1983 0.508491491893376 0.5137861200221933 0.5064666976230758
+Year:  1984
+Min:  0.500584652099262 Median:  0.5079219595951945 Mean:  0.5090477995864944 Max:  0.528271302192084
+Year 1984 mean: 0.509048
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1984 0.506262830084422 0.5129674555253022 0.5045871580548988
+Year:  1985
+Min:  0.500698506107668 Median:  0.5087096885382796 Mean:  0.510766890960381 Max:  0.544757534618523
+Year 1985 mean: 0.510767
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1985 0.507516452220517 0.5158256677684482 0.5052270579348865
+Year:  1986
+Min:  0.501220640557906 Median:  0.508948706453553 Mean:  0.511849783398521 Max:  0.546078300524491
+Year 1986 mean: 0.511850
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1986 0.507071857165114 0.513306563089252 0.5051127005421285
+Year:  1987
+Min:  0.500429074881274 Median:  0.5070786050521869 Mean:  0.5090484950416634 Max:  0.536592472336726
+Year 1987 mean: 0.509048
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1987 0.504521526960948 0.5100032437292832 0.5033406344754255
+Year:  1988
+Min:  0.500876130324719 Median:  0.5067351858236144 Mean:  0.5093401472991493 Max:  0.53582340850088
+Year 1988 mean: 0.509340
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1988 0.505308595590427 0.5109108984172355 0.5036558008918464
+Year:  1989
+Min:  0.500696984185236 Median:  0.5093192178747981 Mean:  0.5105154398946695 Max:  0.534257705835474
+Year 1989 mean: 0.510515
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1989 0.505163603902499 0.5097747063773677 0.5039038798323519
+Year:  1990
+Min:  0.500467624349593 Median:  0.506792602926915 Mean:  0.5080076295915714 Max:  0.525921550888345
+Year 1990 mean: 0.508008
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1990 0.505773977075376 0.510602556364782 0.5043539685519678
+Year:  1991
+Min:  0.500316623772121 Median:  0.5057350385440724 Mean:  0.5072789351212404 Max:  0.533302027896458
+Year 1991 mean: 0.507279
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1991 0.503895675992018 0.5086139222819676 0.5029249763994
+Year:  1992
+Min:  0.500648399051482 Median:  0.506232409272668 Mean:  0.5087129402399359 Max:  0.532957564378228
+Year 1992 mean: 0.508713
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1992 0.504484542363167 0.5089682520112468 0.503157376229221
+Year:  1993
+Min:  0.500451257031876 Median:  0.5092706246532694 Mean:  0.5106855690760864 Max:  0.542611849448662
+Year 1993 mean: 0.510686
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1993 0.504671796630235 0.5112117136397656 0.5034937101463722
+Year:  1994
+Min:  0.500468576926454 Median:  0.5065750709299455 Mean:  0.5080131563234164 Max:  0.540261295870337
+Year 1994 mean: 0.508013
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1994 0.505846930516663 0.5109811697063118 0.5044453817538118
+Year:  1995
+Min:  0.500972809091798 Median:  0.508129568239645 Mean:  0.5095206324776064 Max:  0.53061492856089
+Year 1995 mean: 0.509521
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1995 0.506037528211819 0.5107131955371876 0.5045388886621273
+Year:  1996
+Min:  0.501203973731573 Median:  0.5063467861145401 Mean:  0.508903344298095 Max:  0.545269391377624
+Year 1996 mean: 0.508903
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1996 0.506237299825812 0.5121060301537416 0.5045597335900903
+Year:  1997
+Min:  0.50068317919995 Median:  0.5093162446049825 Mean:  0.5107564271250868 Max:  0.532562879695664
+Year 1997 mean: 0.510756
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1997 0.505444041529122 0.5098601029771873 0.5041715850565817
+Year:  1998
+Min:  0.500567441418895 Median:  0.505384829831574 Mean:  0.5075245032680014 Max:  0.535473186227458
+Year 1998 mean: 0.507525
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1998 0.50573840102863 0.5117043503072538 0.5040958161457783
+Year:  1999
+Min:  0.500455670191387 Median:  0.5063996436095285 Mean:  0.5082143382141966 Max:  0.525739031052347
+Year 1999 mean: 0.508214
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+1999 0.50518814057206 0.5093516166041037 0.5038425246111353
+Year:  2000
+Min:  0.500649456399868 Median:  0.5073573358454551 Mean:  0.5087063027372023 Max:  0.552141257131215
+Year 2000 mean: 0.508706
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2000 0.505782709116429 0.51106484444247 0.5045437440102376
+Year:  2001
+Min:  0.500862359437983 Median:  0.5113757611615665 Mean:  0.5122443760102571 Max:  0.566465125440403
+Year 2001 mean: 0.512244
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2001 0.506718799317569 0.5139953559095323 0.5052957941280569
+Year:  2002
+Min:  0.500590879283785 Median:  0.5076433419878406 Mean:  0.5088789224695682 Max:  0.529643512345103
+Year 2002 mean: 0.508879
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2002 0.509683283591878 0.5203540082589108 0.5068493414766538
+Year:  2003
+Min:  0.500991095661097 Median:  0.509163857759244 Mean:  0.5100972442715506 Max:  0.538006612488727
+Year 2003 mean: 0.510097
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2003 0.507092956510423 0.5126463957408934 0.505312887759882
+Year:  2004
+Min:  0.500977288511729 Median:  0.509420630413012 Mean:  0.510742588960652 Max:  0.534428821916991
+Year 2004 mean: 0.510743
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2004 0.508154463503321 0.5140831377898305 0.5059997756838064
+Year:  2005
+Min:  0.501039105356936 Median:  0.50950001041148 Mean:  0.5109804556645063 Max:  0.545908944726578
+Year 2005 mean: 0.510980
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2005 0.507589828477728 0.5127385786511913 0.5058208135101896
+Year:  2006
+Min:  0.500589378879937 Median:  0.5067438358123245 Mean:  0.5083972347346173 Max:  0.529886801221193
+Year 2006 mean: 0.508397
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2006 0.511699469452899 0.5205158447820584 0.5088679114127067
+Year:  2007
+Min:  0.50092792685213 Median:  0.5076961438081615 Mean:  0.5099423909965082 Max:  0.535139880695775
+Year 2007 mean: 0.509942
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2007 0.51084233818582 0.5193601535369298 0.5077183468248055
+Year:  2008
+Min:  0.500850721432835 Median:  0.511233300265497 Mean:  0.5125685502564593 Max:  0.542292215872737
+Year 2008 mean: 0.512569
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2008 0.508776752268276 0.5146634883546781 0.5066928474621787
+Year:  2009
+Min:  0.500667017696741 Median:  0.51132241015589 Mean:  0.5131570323279576 Max:  0.537728210298312
+Year 2009 mean: 0.513157
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2009 0.506383683619274 0.5113213650753077 0.5047779039270616
+Year:  2010
+Min:  0.500523802255897 Median:  0.5115008054017165 Mean:  0.5129369956355498 Max:  0.543382494278347
+Year 2010 mean: 0.512937
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2010 0.508846494392852 0.5176394858935137 0.5065811615770716
+Year:  2011
+Min:  0.500905401084365 Median:  0.5089862296763306 Mean:  0.5098146349316468 Max:  0.531068312621854
+Year 2011 mean: 0.509815
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2011 0.50565829401581 0.5103174727546843 0.5040504616725627
+Year:  2012
+Min:  0.501206410073367 Median:  0.5094085552905395 Mean:  0.511341795772967 Max:  0.545977737486524
+Year 2012 mean: 0.511342
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2012 0.507921200914094 0.5133420912146388 0.5059282863648427
+Year:  2013
+Min:  0.501056304439377 Median:  0.51058607489018 Mean:  0.5129223409627082 Max:  0.540252854407435
+Year 2013 mean: 0.512922
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2013 0.506098902372291 0.5109943470343179 0.5046387209655971
+Year:  2014
+Min:  0.501142023324085 Median:  0.5132760236311575 Mean:  0.5151761155651808 Max:  0.540084983032362
+Year 2014 mean: 0.515176
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2014 0.510245909219357 0.5161245994810025 0.5077830579794839
+Year:  2015
+Min:  0.500564758180891 Median:  0.5127020376096985 Mean:  0.5146743937753647 Max:  0.548513107875602
+Year 2015 mean: 0.514674
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2015 0.505593947324473 0.5112494191874196 0.5040964491805369
+Year:  2016
+Min:  0.501151992248808 Median:  0.5088402552702205 Mean:  0.510373169751022 Max:  0.537349500080278
+Year 2016 mean: 0.510373
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2016 0.505482554508432 0.5092548629709679 0.5041828721291131
+Year:  2017
+Min:  0.501106419815972 Median:  0.5093127424020214 Mean:  0.5112186167383448 Max:  0.545997723404576
+Year 2017 mean: 0.511219
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2017 0.505406841301008 0.5098468929408739 0.5041678735825693
+Year:  2018
+Min:  0.501383916862666 Median:  0.509379081121499 Mean:  0.511864105804813 Max:  0.545697243106637
+Year 2018 mean: 0.511864
+Nr subsample estimates neq 0.5 100
+Nr subsample estimates = 0.5 0
+Nr subsample estimates after adjustment 100
+2018 0.506376458412429 0.5119746766034764 0.5046892421927098
+Output written to  /home/jernie/analysis/output/uusimaa/partisanship-uusimaa_randlabels_Cadj_c0_partyf-cis.csv

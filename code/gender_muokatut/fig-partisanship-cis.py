@@ -11,7 +11,7 @@ import seaborn as sns
 import pylab
 
 ##################################################################################
-csc = 0
+csc = 1
 include_random = 1
 empirical = 0
 
@@ -30,8 +30,8 @@ if empirical == 1:
     infilename1 = "empirical-partisanship-" + partyvar + "_Cadj-cis.csv"
     infilename2 = "empirical-partisanship-" + partyvar + "_randlabels_Cadj-cis.csv"
 else:
-    infilename1 = 'partisanship-gender_Cadj_c0-cis.csv'
-    infilename2 = 'partisanship-gender_randlabels_Cadj_c0-cis.csv'
+    infilename1 = 'partisanship-gender_Cadj_c0_partyf-cis.csv'
+    infilename2 = 'partisanship-gender_randlabels_Cadj_c0_partyf-cis.csv'
 
 if include_random == 1:
     outfilename = infilename1.split(".csv")[0] + "-w_random"

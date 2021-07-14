@@ -1,0 +1,1138 @@
+also installing the dependencies ‘credentials’, ‘openssl’, ‘zip’, ‘gitcreds’, ‘ini’, ‘fastmap’, ‘diffobj’, ‘rematch2’, ‘gert’, ‘gh’, ‘rappdirs’, ‘rprojroot’, ‘processx’, ‘cachem’, ‘xopen’, ‘brew’, ‘commonmark’, ‘purrr’, ‘brio’, ‘praise’, ‘ps’, ‘waldo’, ‘usethis’, ‘callr’, ‘cli’, ‘desc’, ‘ellipsis’, ‘fs’, ‘httr’, ‘lifecycle’, ‘memoise’, ‘pkgbuild’, ‘pkgload’, ‘rcmdcheck’, ‘remotes’, ‘rlang’, ‘roxygen2’, ‘rstudioapi’, ‘rversions’, ‘sessioninfo’, ‘testthat’, ‘withr’
+
+trying URL 'http://cran.r-project.org/src/contrib/credentials_1.3.0.tar.gz'
+Content type 'application/x-gzip' length 230082 bytes (224 KB)
+==================================================
+downloaded 224 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/openssl_1.4.4.tar.gz'
+Content type 'application/x-gzip' length 1311285 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'http://cran.r-project.org/src/contrib/zip_2.2.0.tar.gz'
+Content type 'application/x-gzip' length 114391 bytes (111 KB)
+==================================================
+downloaded 111 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/gitcreds_0.1.1.tar.gz'
+Content type 'application/x-gzip' length 61913 bytes (60 KB)
+==================================================
+downloaded 60 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/ini_0.3.1.tar.gz'
+Content type 'application/x-gzip' length 3488 bytes
+==================================================
+downloaded 3488 bytes
+
+trying URL 'http://cran.r-project.org/src/contrib/fastmap_1.1.0.tar.gz'
+Content type 'application/x-gzip' length 44277 bytes (43 KB)
+==================================================
+downloaded 43 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/diffobj_0.3.4.tar.gz'
+Content type 'application/x-gzip' length 477614 bytes (466 KB)
+==================================================
+downloaded 466 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rematch2_2.1.2.tar.gz'
+Content type 'application/x-gzip' length 13366 bytes (13 KB)
+==================================================
+downloaded 13 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/gert_1.3.1.tar.gz'
+Content type 'application/x-gzip' length 66767 bytes (65 KB)
+==================================================
+downloaded 65 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/gh_1.3.0.tar.gz'
+Content type 'application/x-gzip' length 45619 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rappdirs_0.3.3.tar.gz'
+Content type 'application/x-gzip' length 12288 bytes (12 KB)
+==================================================
+downloaded 12 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rprojroot_2.0.2.tar.gz'
+Content type 'application/x-gzip' length 59967 bytes (58 KB)
+==================================================
+downloaded 58 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/processx_3.5.2.tar.gz'
+Content type 'application/x-gzip' length 141424 bytes (138 KB)
+==================================================
+downloaded 138 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/cachem_1.0.5.tar.gz'
+Content type 'application/x-gzip' length 24974 bytes (24 KB)
+==================================================
+downloaded 24 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/xopen_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 11221 bytes (10 KB)
+==================================================
+downloaded 10 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/brew_1.0-6.tar.gz'
+Content type 'application/x-gzip' length 83315 bytes (81 KB)
+==================================================
+downloaded 81 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/commonmark_1.7.tar.gz'
+Content type 'application/x-gzip' length 134002 bytes (130 KB)
+==================================================
+downloaded 130 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/purrr_0.3.4.tar.gz'
+Content type 'application/x-gzip' length 375062 bytes (366 KB)
+==================================================
+downloaded 366 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/brio_1.1.2.tar.gz'
+Content type 'application/x-gzip' length 12069 bytes (11 KB)
+==================================================
+downloaded 11 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/praise_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 6100 bytes
+==================================================
+downloaded 6100 bytes
+
+trying URL 'http://cran.r-project.org/src/contrib/ps_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 119670 bytes (116 KB)
+==================================================
+downloaded 116 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/waldo_0.2.5.tar.gz'
+Content type 'application/x-gzip' length 26295 bytes (25 KB)
+==================================================
+downloaded 25 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/usethis_2.0.1.tar.gz'
+Content type 'application/x-gzip' length 306090 bytes (298 KB)
+==================================================
+downloaded 298 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/callr_3.7.0.tar.gz'
+Content type 'application/x-gzip' length 74518 bytes (72 KB)
+==================================================
+downloaded 72 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/cli_3.0.0.tar.gz'
+Content type 'application/x-gzip' length 223930 bytes (218 KB)
+==================================================
+downloaded 218 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/desc_1.3.0.tar.gz'
+Content type 'application/x-gzip' length 292882 bytes (286 KB)
+==================================================
+downloaded 286 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/ellipsis_0.3.2.tar.gz'
+Content type 'application/x-gzip' length 8066 bytes
+==================================================
+downloaded 8066 bytes
+
+trying URL 'http://cran.r-project.org/src/contrib/fs_1.5.0.tar.gz'
+Content type 'application/x-gzip' length 796244 bytes (777 KB)
+==================================================
+downloaded 777 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/httr_1.4.2.tar.gz'
+Content type 'application/x-gzip' length 159950 bytes (156 KB)
+==================================================
+downloaded 156 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/lifecycle_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 83389 bytes (81 KB)
+==================================================
+downloaded 81 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/memoise_2.0.0.tar.gz'
+Content type 'application/x-gzip' length 17337 bytes (16 KB)
+==================================================
+downloaded 16 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/pkgbuild_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 30383 bytes (29 KB)
+==================================================
+downloaded 29 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/pkgload_1.2.1.tar.gz'
+Content type 'application/x-gzip' length 60651 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rcmdcheck_1.3.3.tar.gz'
+Content type 'application/x-gzip' length 45380 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/remotes_2.4.0.tar.gz'
+Content type 'application/x-gzip' length 149836 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rlang_0.4.11.tar.gz'
+Content type 'application/x-gzip' length 861727 bytes (841 KB)
+==================================================
+downloaded 841 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/roxygen2_7.1.1.tar.gz'
+Content type 'application/x-gzip' length 254118 bytes (248 KB)
+==================================================
+downloaded 248 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rstudioapi_0.13.tar.gz'
+Content type 'application/x-gzip' length 110472 bytes (107 KB)
+==================================================
+downloaded 107 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/rversions_2.1.1.tar.gz'
+Content type 'application/x-gzip' length 42064 bytes (41 KB)
+==================================================
+downloaded 41 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/sessioninfo_1.1.1.tar.gz'
+Content type 'application/x-gzip' length 46027 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/testthat_3.0.4.tar.gz'
+Content type 'application/x-gzip' length 688142 bytes (672 KB)
+==================================================
+downloaded 672 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/withr_2.4.2.tar.gz'
+Content type 'application/x-gzip' length 94283 bytes (92 KB)
+==================================================
+downloaded 92 KB
+
+trying URL 'http://cran.r-project.org/src/contrib/devtools_2.4.2.tar.gz'
+Content type 'application/x-gzip' length 371298 bytes (362 KB)
+==================================================
+downloaded 362 KB
+
+* installing *source* package ‘openssl’ ...
+** package ‘openssl’ successfully unpacked and MD5 sums checked
+** using staged installation
+Found pkg-config cflags and libs!
+Using PKG_CFLAGS=-I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include  
+Using PKG_LIBS=-L/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/lib -l:libssl.so.1.1 -l:libcrypto.so.1.1  
+** libs
+rm -f aes.o base64.o bignum.o cert.o compatibility.o diffie.o envelope.o error.o hash.o info.o keygen.o keys.o onload.o openssh.o password.o pbkdf.o pem.o pkcs12.o pkcs7.o rand.o rsa.o signing.o ssl.o stream.o write.o x25519.o openssl.so bcrypt/libstatbcrypt.a bcrypt/bcrypt_pbkdf.o bcrypt/blowfish.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c aes.c -o aes.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c base64.c -o base64.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c bignum.c -o bignum.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cert.c -o cert.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c compatibility.c -o compatibility.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c diffie.c -o diffie.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c envelope.c -o envelope.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c error.c -o error.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c hash.c -o hash.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c info.c -o info.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c keygen.c -o keygen.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c keys.c -o keys.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c onload.c -o onload.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c openssh.c -o openssh.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c password.c -o password.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c pbkdf.c -o pbkdf.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c pem.c -o pem.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c pkcs12.c -o pkcs12.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c pkcs7.c -o pkcs7.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c rand.c -o rand.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c rsa.c -o rsa.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c signing.c -o signing.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c ssl.c -o ssl.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c stream.c -o stream.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c write.c -o write.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c x25519.c -o x25519.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c bcrypt/bcrypt_pbkdf.c -o bcrypt/bcrypt_pbkdf.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/include    -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c bcrypt/blowfish.c -o bcrypt/blowfish.o
+x86_64-conda_cos6-linux-gnu-ar rcs bcrypt/libstatbcrypt.a bcrypt/bcrypt_pbkdf.o bcrypt/blowfish.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o openssl.so aes.o base64.o bignum.o cert.o compatibility.o diffie.o envelope.o error.o hash.o info.o keygen.o keys.o onload.o openssh.o password.o pbkdf.o pem.o pkcs12.o pkcs7.o rand.o rsa.o signing.o ssl.o stream.o write.o x25519.o -Lbcrypt -lstatbcrypt -L/cvmfs/fgi.csc.fi/apps/el7/aalto/spack/software/miniconda3/4.6.14/lyfz4jx/lib -l:libssl.so.1.1 -l:libcrypto.so.1.1 -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-openssl/00new/openssl/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (openssl)
+* installing *source* package ‘zip’ ...
+** package ‘zip’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  miniz.c zip.c unixutils.c tools/cmdzip.c -o tools/cmdzip
+x86_64-conda_cos6-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  miniz.c zip.c unixutils.c tools/cmdunzip.c -o tools/cmdunzip
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c miniz.c -o miniz.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c rzip.c -o rzip.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c zip.c -o zip.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unixutils.c -o unixutils.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o zip.so init.o miniz.o rzip.o zip.o unixutils.o -L/home/jernie/new_env/lib/R/lib -lR
+installing via 'install.libs.R' to /home/jernie/new_env/lib/R/library/00LOCK-zip/00new/zip
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (zip)
+* installing *source* package ‘gitcreds’ ...
+** package ‘gitcreds’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (gitcreds)
+* installing *source* package ‘ini’ ...
+** package ‘ini’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ini)
+* installing *source* package ‘fastmap’ ...
+** package ‘fastmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Ilib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -DR_NO_REMAP -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c fastmap.cpp -o fastmap.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Ilib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o fastmap.so fastmap.o init.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-fastmap/00new/fastmap/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (fastmap)
+* installing *source* package ‘diffobj’ ...
+** package ‘diffobj’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c diff.c -o diff.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c diffobj.c -o diffobj.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o diffobj.so diff.o diffobj.o init.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-diffobj/00new/diffobj/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (diffobj)
+* installing *source* package ‘rematch2’ ...
+** package ‘rematch2’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rematch2)
+* installing *source* package ‘rappdirs’ ...
+** package ‘rappdirs’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c win-path.c -o win-path.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o rappdirs.so init.o win-path.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-rappdirs/00new/rappdirs/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rappdirs)
+* installing *source* package ‘rprojroot’ ...
+** package ‘rprojroot’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rprojroot)
+* installing *source* package ‘brew’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (brew)
+* installing *source* package ‘commonmark’ ...
+** package ‘commonmark’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+rm -f cmark/cmark.o cmark/node.o cmark/iterator.o cmark/blocks.o cmark/inlines.o cmark/scanners.o cmark/utf8.o cmark/buffer.o cmark/references.o cmark/render.o cmark/man.o cmark/xml.o cmark/html.o cmark/commonmark.o cmark/latex.o cmark/houdini_href_e.o cmark/houdini_html_e.o cmark/houdini_html_u.o cmark/cmark_ctype.o cmark/arena.o cmark/html.o cmark/linked_list.o cmark/plugin.o cmark/registry.o cmark/syntax_extension.o cmark/plaintext.o cmark/footnotes.o cmark/map.o extensions/autolink.o extensions/core-extensions.o extensions/ext_scanners.o extensions/strikethrough.o extensions/table.o extensions/tagfilter.o extensions.o init.o wrapper.o commonmark.so cmark/libstatcmark.a
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions.c -o extensions.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c wrapper.c -o wrapper.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/cmark.c -o cmark/cmark.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/node.c -o cmark/node.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/iterator.c -o cmark/iterator.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/blocks.c -o cmark/blocks.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/inlines.c -o cmark/inlines.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/scanners.c -o cmark/scanners.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/utf8.c -o cmark/utf8.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/buffer.c -o cmark/buffer.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/references.c -o cmark/references.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/render.c -o cmark/render.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/man.c -o cmark/man.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/xml.c -o cmark/xml.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/html.c -o cmark/html.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/commonmark.c -o cmark/commonmark.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/latex.c -o cmark/latex.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/houdini_href_e.c -o cmark/houdini_href_e.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/houdini_html_e.c -o cmark/houdini_html_e.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/houdini_html_u.c -o cmark/houdini_html_u.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/cmark_ctype.c -o cmark/cmark_ctype.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/arena.c -o cmark/arena.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/linked_list.c -o cmark/linked_list.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/plugin.c -o cmark/plugin.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/registry.c -o cmark/registry.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/syntax_extension.c -o cmark/syntax_extension.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/plaintext.c -o cmark/plaintext.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/footnotes.c -o cmark/footnotes.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cmark/map.c -o cmark/map.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions/autolink.c -o extensions/autolink.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions/core-extensions.c -o extensions/core-extensions.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions/ext_scanners.c -o extensions/ext_scanners.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions/strikethrough.c -o extensions/strikethrough.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions/table.c -o extensions/table.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -Icmark -I. -DCMARK_GFM_STATIC_DEFINE -DCMARK_GFM_EXTENSIONS_STATIC_DEFINE -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extensions/tagfilter.c -o extensions/tagfilter.o
+x86_64-conda_cos6-linux-gnu-ar rcs cmark/libstatcmark.a cmark/cmark.o cmark/node.o cmark/iterator.o cmark/blocks.o cmark/inlines.o cmark/scanners.o cmark/utf8.o cmark/buffer.o cmark/references.o cmark/render.o cmark/man.o cmark/xml.o cmark/html.o cmark/commonmark.o cmark/latex.o cmark/houdini_href_e.o cmark/houdini_html_e.o cmark/houdini_html_u.o cmark/cmark_ctype.o cmark/arena.o cmark/html.o cmark/linked_list.o cmark/plugin.o cmark/registry.o cmark/syntax_extension.o cmark/plaintext.o cmark/footnotes.o cmark/map.o extensions/autolink.o extensions/core-extensions.o extensions/ext_scanners.o extensions/strikethrough.o extensions/table.o extensions/tagfilter.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o commonmark.so extensions.o init.o wrapper.o -Lcmark -lstatcmark -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-commonmark/00new/commonmark/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (commonmark)
+* installing *source* package ‘brio’ ...
+** package ‘brio’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c brio.c -o brio.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c file_line_endings.c -o file_line_endings.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c read_file.c -o read_file.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c read_file_raw.c -o read_file_raw.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c read_lines.c -o read_lines.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c write_file.c -o write_file.o
+write_file.c: In function 'brio_write_file':
+write_file.c:16:5: warning: ignoring return value of 'fwrite', declared with attribute warn_unused_result [-Wunused-result]
+     fwrite("", 1, 0, fp);
+     ^~~~~~~~~~~~~~~~~~~~
+write_file.c:21:5: warning: ignoring return value of 'fwrite', declared with attribute warn_unused_result [-Wunused-result]
+     fwrite(CHAR(elt), 1, elt_size, fp);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c write_lines.c -o write_lines.o
+write_lines.c: In function 'brio_write_lines':
+write_lines.c:32:7: warning: ignoring return value of 'fwrite', declared with attribute warn_unused_result [-Wunused-result]
+       fwrite(prev, 1, len, fp);
+       ^~~~~~~~~~~~~~~~~~~~~~~~
+write_lines.c:33:7: warning: ignoring return value of 'fwrite', declared with attribute warn_unused_result [-Wunused-result]
+       fwrite(eol_c, 1, eol_len, fp);
+       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+write_lines.c:37:5: warning: ignoring return value of 'fwrite', declared with attribute warn_unused_result [-Wunused-result]
+     fwrite(prev, 1, len, fp);
+     ^~~~~~~~~~~~~~~~~~~~~~~~
+write_lines.c:38:5: warning: ignoring return value of 'fwrite', declared with attribute warn_unused_result [-Wunused-result]
+     fwrite(eol_c, 1, eol_len, fp);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o brio.so brio.o file_line_endings.o init.o read_file.o read_file_raw.o read_lines.o write_file.o write_lines.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-brio/00new/brio/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (brio)
+* installing *source* package ‘praise’ ...
+** package ‘praise’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (praise)
+* installing *source* package ‘ps’ ...
+** package ‘ps’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -Wall px.c -o px
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c api-common.c -o api-common.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c common.c -o common.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c extra.c -o extra.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c dummy.c -o dummy.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c error-codes.c -o error-codes.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c posix.c -o posix.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c api-posix.c -o api-posix.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c linux.c -o linux.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c api-linux.c -o api-linux.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o ps.so init.o api-common.o common.o extra.o dummy.o error-codes.o posix.o api-posix.o linux.o api-linux.o -L/home/jernie/new_env/lib/R/lib -lR
+installing via 'install.libs.R' to /home/jernie/new_env/lib/R/library/00LOCK-ps/00new/ps
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ps)
+* installing *source* package ‘cli’ ...
+** package ‘cli’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cleancall.c -o cleancall.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c errors.c -o errors.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c progress-altrep.c -o progress-altrep.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c progress.c -o progress.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c thread.c -o thread.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c tty.c -o tty.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c win-utf8.c -o win-utf8.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o cli.so cleancall.o errors.o init.o progress-altrep.o progress.o thread.o tty.o win-utf8.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-cli/00new/cli/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (cli)
+* installing *source* package ‘fs’ ...
+** package ‘fs’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.cc -o init.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c id.cc -o id.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c file.cc -o file.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c path.cc -o path.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c fs.cc -o fs.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c link.cc -o link.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c utils.cc -o utils.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c dir.cc -o dir.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c getmode.cc -o getmode.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c error.cc -o error.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/getmode.cc -o unix/getmode.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c bsd/setmode.c -o bsd/setmode.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c bsd/strmode.c -o bsd/strmode.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./libuv-1.38.1/include -I. -pthread  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c bsd/reallocarray.c -o bsd/reallocarray.o
+(cd libuv-1.38.1 \
+&& CC="x86_64-conda_cos6-linux-gnu-cc" CFLAGS="-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fpic -fvisibility=hidden" AR="x86_64-conda_cos6-linux-gnu-ar" RANLIB="x86_64-conda_cos6-linux-gnu-ranlib" LDFLAGS="-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib" ./configure --quiet)
+make --directory=libuv-1.38.1 \
+	HAVE_DTRACE=0
+make[1]: Entering directory '/tmp/RtmpdYtVvX/R.INSTALL1305e2b49f784/fs/src/libuv-1.38.1'
+  CC       src/libuv_la-fs-poll.lo
+  CC       src/libuv_la-idna.lo
+  CC       src/libuv_la-inet.lo
+  CC       src/libuv_la-random.lo
+  CC       src/libuv_la-strscpy.lo
+  CC       src/libuv_la-threadpool.lo
+  CC       src/libuv_la-timer.lo
+  CC       src/libuv_la-uv-data-getter-setters.lo
+  CC       src/libuv_la-uv-common.lo
+  CC       src/libuv_la-version.lo
+  CC       src/unix/libuv_la-async.lo
+  CC       src/unix/libuv_la-core.lo
+  CC       src/unix/libuv_la-dl.lo
+  CC       src/unix/libuv_la-fs.lo
+  CC       src/unix/libuv_la-getaddrinfo.lo
+  CC       src/unix/libuv_la-getnameinfo.lo
+  CC       src/unix/libuv_la-loop-watcher.lo
+  CC       src/unix/libuv_la-loop.lo
+  CC       src/unix/libuv_la-pipe.lo
+  CC       src/unix/libuv_la-poll.lo
+  CC       src/unix/libuv_la-process.lo
+  CC       src/unix/libuv_la-random-devurandom.lo
+  CC       src/unix/libuv_la-signal.lo
+  CC       src/unix/libuv_la-stream.lo
+  CC       src/unix/libuv_la-tcp.lo
+  CC       src/unix/libuv_la-thread.lo
+  CC       src/unix/libuv_la-tty.lo
+  CC       src/unix/libuv_la-udp.lo
+  CC       src/unix/libuv_la-linux-core.lo
+  CC       src/unix/libuv_la-linux-inotify.lo
+  CC       src/unix/libuv_la-linux-syscalls.lo
+  CC       src/unix/libuv_la-procfs-exepath.lo
+  CC       src/unix/libuv_la-proctitle.lo
+  CC       src/unix/libuv_la-random-getrandom.lo
+  CC       src/unix/libuv_la-random-sysctl-linux.lo
+  CCLD     libuv.la
+make[1]: Leaving directory '/tmp/RtmpdYtVvX/R.INSTALL1305e2b49f784/fs/src/libuv-1.38.1'
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o fs.so init.o id.o file.o path.o fs.o link.o utils.o dir.o getmode.o error.o unix/getmode.o bsd/setmode.o bsd/strmode.o bsd/reallocarray.o ./libuv-1.38.1/.libs/libuv.a -pthread -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-fs/00new/fs/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (fs)
+* installing *source* package ‘remotes’ ...
+** package ‘remotes’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (remotes)
+* installing *source* package ‘rlang’ ...
+** package ‘rlang’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./lib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c capture.c -o capture.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./lib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c export.c -o export.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./lib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c internal.c -o internal.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./lib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c lib.c -o lib.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I./lib/  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c version.c -o version.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o rlang.so capture.o export.o internal.o lib.o version.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-rlang/00new/rlang/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rlang)
+* installing *source* package ‘rstudioapi’ ...
+** package ‘rstudioapi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rstudioapi)
+* installing *source* package ‘rversions’ ...
+** package ‘rversions’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rversions)
+* installing *source* package ‘withr’ ...
+** package ‘withr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (withr)
+* installing *source* package ‘credentials’ ...
+** package ‘credentials’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (credentials)
+* installing *source* package ‘processx’ ...
+** package ‘processx’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -Wall tools/px.c -o tools/px
+x86_64-conda_cos6-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib supervisor/supervisor.c \
+      supervisor/utils.c -o supervisor/supervisor
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c base64.c -o base64.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c client.c -o client.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c errors.c -o errors.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L"/home/jernie/new_env/lib/R/lib" -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o client.so base64.o client.o errors.o  \
+	 -L"/home/jernie/new_env/lib/R/lib" -lR
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c poll.c -o poll.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c processx-connection.c -o processx-connection.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c processx-vector.c -o processx-vector.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c create-time.c -o create-time.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/childlist.c -o unix/childlist.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/connection.c -o unix/connection.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/processx.c -o unix/processx.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/sigchld.c -o unix/sigchld.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/utils.c -o unix/utils.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c unix/named_pipe.c -o unix/named_pipe.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cleancall.c -o cleancall.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o processx.so init.o poll.o errors.o processx-connection.o processx-vector.o create-time.o base64.o unix/childlist.o unix/connection.o unix/processx.o unix/sigchld.o unix/utils.o unix/named_pipe.o cleancall.o -L/home/jernie/new_env/lib/R/lib -lR
+installing via 'install.libs.R' to /home/jernie/new_env/lib/R/library/00LOCK-processx/00new/processx
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (processx)
+* installing *source* package ‘cachem’ ...
+** package ‘cachem’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c cache.c -o cache.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o cachem.so cache.o init.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-cachem/00new/cachem/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (cachem)
+* installing *source* package ‘purrr’ ...
+** package ‘purrr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c backports.c -o backports.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c coerce.c -o coerce.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c conditions.c -o conditions.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c flatten.c -o flatten.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c map.c -o map.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c pluck.c -o pluck.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c transpose.c -o transpose.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c utils.c -o utils.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o purrr.so backports.o coerce.o conditions.o flatten.o init.o map.o pluck.o transpose.o utils.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-purrr/00new/purrr/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (purrr)
+* installing *source* package ‘waldo’ ...
+** package ‘waldo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (waldo)
+* installing *source* package ‘desc’ ...
+** package ‘desc’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (desc)
+* installing *source* package ‘ellipsis’ ...
+** package ‘ellipsis’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c dots.c -o dots.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG   -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o ellipsis.so dots.o init.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-ellipsis/00new/ellipsis/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ellipsis)
+* installing *source* package ‘httr’ ...
+** package ‘httr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (httr)
+* installing *source* package ‘lifecycle’ ...
+** package ‘lifecycle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (lifecycle)
+* installing *source* package ‘sessioninfo’ ...
+** package ‘sessioninfo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (sessioninfo)
+* installing *source* package ‘gert’ ...
+** package ‘gert’ successfully unpacked and MD5 sums checked
+** using staged installation
+> curl::curl_download("https://r-lib.github.io/gert/get-libgit2-linux.sh","get-libgit2-linux.sh")
+> 
+> 
+> curl::curl_download('https://r-lib.github.io/gert/libgit2-1.1.0.x86_64_linux.tar.gz','bundle.tar.gz')
+> 
+> 
+Using static libgit2-1.1.0 for Linux x86_64
+Using PKG_CFLAGS=-DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include
+Using PKG_LIBS=-L/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/lib -lgit2 -lrt -lpthread -lssh2 -lssl -lcrypto -ldl -lpcre -lz
+Configuration OK!
+** libs
+rm -f gert.so branch.o clone.o commit.o config.o conflicts.o files.o init.o merge.o rebase.o stash.o submodules.o tag.o utils.o version.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c branch.c -o branch.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c clone.c -o clone.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c commit.c -o commit.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c config.c -o config.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c conflicts.c -o conflicts.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c files.c -o files.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c merge.c -o merge.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c rebase.c -o rebase.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c stash.c -o stash.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c submodules.c -o submodules.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c tag.c -o tag.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c utils.c -o utils.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -DSTATIC_LIBGIT2 -I/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/include -DR_NO_REMAP -DSTRICT_R_HEADERS  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib -fvisibility=hidden -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c version.c -o version.o
+x86_64-conda_cos6-linux-gnu-cc -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o gert.so branch.o clone.o commit.o config.o conflicts.o files.o init.o merge.o rebase.o stash.o submodules.o tag.o utils.o version.o -L/tmp/RtmpKEff5w/R.INSTALL1732d391bab76/gert/libgit2/lib -lgit2 -lrt -lpthread -lssh2 -lssl -lcrypto -ldl -lpcre -lz -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-gert/00new/gert/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (gert)
+* installing *source* package ‘gh’ ...
+** package ‘gh’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (gh)
+* installing *source* package ‘xopen’ ...
+** package ‘xopen’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (xopen)
+* installing *source* package ‘callr’ ...
+** package ‘callr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (callr)
+* installing *source* package ‘memoise’ ...
+** package ‘memoise’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (memoise)
+* installing *source* package ‘pkgload’ ...
+** package ‘pkgload’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (pkgload)
+* installing *source* package ‘usethis’ ...
+** package ‘usethis’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (usethis)
+* installing *source* package ‘pkgbuild’ ...
+** package ‘pkgbuild’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (pkgbuild)
+* installing *source* package ‘roxygen2’ ...
+** package ‘roxygen2’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG  -I"/home/jernie/new_env/lib/R/library/Rcpp/include" -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c RcppExports.cpp -o RcppExports.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG  -I"/home/jernie/new_env/lib/R/library/Rcpp/include" -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c escapeExamples.cpp -o escapeExamples.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG  -I"/home/jernie/new_env/lib/R/library/Rcpp/include" -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c isComplete.cpp -o isComplete.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG  -I"/home/jernie/new_env/lib/R/library/Rcpp/include" -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c leadingSpaces.cpp -o leadingSpaces.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG  -I"/home/jernie/new_env/lib/R/library/Rcpp/include" -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c parser2.cpp -o parser2.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG  -I"/home/jernie/new_env/lib/R/library/Rcpp/include" -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c wrapUsage.cpp -o wrapUsage.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o roxygen2.so RcppExports.o escapeExamples.o isComplete.o leadingSpaces.o parser2.o wrapUsage.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-roxygen2/00new/roxygen2/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (roxygen2)
+* installing *source* package ‘testthat’ ...
+** package ‘testthat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I../inst/include -DCOMPILING_TESTTHAT  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c init.c -o init.o
+x86_64-conda_cos6-linux-gnu-cc -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I../inst/include -DCOMPILING_TESTTHAT  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c reassign.c -o reassign.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I../inst/include -DCOMPILING_TESTTHAT  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c test-catch.cpp -o test-catch.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I../inst/include -DCOMPILING_TESTTHAT  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c test-example.cpp -o test-example.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -I"/home/jernie/new_env/lib/R/include" -DNDEBUG -I../inst/include -DCOMPILING_TESTTHAT  -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jernie/new_env/include -I/home/jernie/new_env/include -Wl,-rpath-link,/home/jernie/new_env/lib  -fpic  -fvisibility-inlines-hidden  -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jernie/new_env/include -fdebug-prefix-map=/tmp/build/80754af9/r-base_1589917437985/work=/usr/local/src/conda/r-base-3.6.1 -fdebug-prefix-map=/home/jernie/new_env=/usr/local/src/conda-prefix  -c test-runner.cpp -o test-runner.o
+x86_64-conda_cos6-linux-gnu-c++ -std=gnu++11 -shared -L/home/jernie/new_env/lib/R/lib -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -L/home/jernie/new_env/lib -L/home/jernie/new_env/lib -Wl,-rpath-link,/home/jernie/new_env/lib -o testthat.so init.o reassign.o test-catch.o test-example.o test-runner.o -L/home/jernie/new_env/lib/R/lib -lR
+installing to /home/jernie/new_env/lib/R/library/00LOCK-testthat/00new/testthat/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (testthat)
+* installing *source* package ‘rcmdcheck’ ...
+** package ‘rcmdcheck’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (rcmdcheck)
+* installing *source* package ‘devtools’ ...
+** package ‘devtools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (devtools)
+
+The downloaded source packages are in
+	‘/tmp/RtmpkdY41n/downloaded_packages’
+Updating HTML index of packages in '.Library'
+Making 'packages.html' ... done
+Loading required package: usethis
+Error in with_libpaths(new = "/home/jernie/new_env/lib/R/library/", install_github("TaddyLab/distrom")) : 
+  could not find function "with_libpaths"
+Execution halted
+srun: error: di36: task 0: Exited with exit code 1
+srun: Terminating job step 2490355.0

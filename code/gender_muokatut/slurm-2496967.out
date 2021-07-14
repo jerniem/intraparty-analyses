@@ -1,0 +1,5 @@
+Hosts are
+0: di36
+di36
+Party variable: gender
+Index(['year', 'estimate', 'lb', 'hb'], dtype='object')

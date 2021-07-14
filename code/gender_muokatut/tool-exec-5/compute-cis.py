@@ -20,7 +20,7 @@ import statistics
 csc = 1
 
 if csc == 1:
-    pathroot = "/home/jernie"
+    pathroot = "/home/jernie/"
 else:
     pathroot = '/Users/jeremiasnieminen/Dropbox/local_speech/'
     
@@ -106,9 +106,8 @@ for year in range(1907, 2018 + 1):
 
     else:
         thisyear = yearly[(yearly.index == year)]
-
-        ck = checkN(thisyear, 3)
-        #ck = checkN(thisyear, 15)
+        #ck = checkN(thisyear, 3)
+        ck = checkN(thisyear, 15)
 
         if ck == False:
             print("Making nan append for year ", year)   
