@@ -1,6 +1,0 @@
-Loading required package: usethis
-Error in with_libpaths(new = "/home/jernie/new_env/lib/R/library/", install_github("TaddyLab/distrom")) : 
-  could not find function "with_libpaths"
-Execution halted
-srun: error: di36: task 0: Exited with exit code 1
-srun: Terminating job step 2490356.0
