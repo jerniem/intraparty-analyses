@@ -174,6 +174,18 @@ def keepUnique(value):
 df = pd.read_csv(path + 'ministers-with-genders.csv', delimiter = '|', lineterminator = "\n", encoding = "utf-8")
 mpdf = pd.read_csv(outdir + 'mp-data.csv', delimiter = '|', lineterminator = "\n", encoding = "utf-8")
 
+
+
+#### try to get rid of the \r
+#mpdf["lastyear"] = mpdf["lastyear\r"]
+#mpdf["lastyear"] = mpdf["lastyear"].apply(lambda x: str(x))
+#mpdf["lastyear"] = mpdf["lastyear"].apply(lambda x: x.rstrip())
+#mpdf["lastyear"] = mpdf["lastyear"].apply(lambda x: int(x))
+#mpdf = mpdf.drop(columns=["lastyear\r"])
+
+
+
+
 mpdf["year"] = mpdf["year"].apply(lambda x: int(x))
 mpdf["speaker_id"] = mpdf["speaker_id"].apply(lambda x: int(x))
 
@@ -305,9 +317,16 @@ mpdf2 = mpdf2.drop(['minister_terms_x', 'minister_terms_y',\
 # profession lisätty
 # birthday lisätty
 # birthyear lisätty
+# STARTYEAR LISÄTTY
+# ENDYEAR LISÄTTY 
 new_order = ["year", "term", "minister_term",
     "speaker_id", "full_name", "last_name", "first_names", "party",
-    "dates", "titles", "female", "birthplace", "electroral_districts", "first_district", "education", "profession", "birthday", "birthyear"]
+    "dates", "titles", "female", "birthplace", "electroral_districts", "first_district", "education", "profession", "birthday", "birthyear",
+             "startyear", "endyear"]
+
+#new_order = ["year", "term", "minister_term",
+#    "speaker_id", "full_name", "last_name", "first_names", "party",
+#    "dates", "titles", "female", "birthplace", "electroral_districts", "first_district"]
 
 mpdf2 = mpdf2[new_order]
 mpdf2 = mpdf2.drop_duplicates()

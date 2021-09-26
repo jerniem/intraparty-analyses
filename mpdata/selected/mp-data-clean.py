@@ -250,18 +250,11 @@ for i in range(len(df)):
 
     birthyear = dt.year
 
-    # '%Y-%m-%d'
-
-    # OLDER
-    #birthyear2 = re.findall(r'\d{4}', birthday)
-    #birthyear = re.findall('\d{4}', birthday)
-    #a_string = "".join(birthyear2)
-    #birthyear = int(a_string)
-    
-
     # ADD PROFESSION AND EDUCATION
     profession = df["Ammatti"].iloc[i]
     education = df["Koulutus"].iloc[i]
+
+
 
 #############################################################
     
@@ -299,8 +292,9 @@ for i in range(len(df)):
             lastname = lastnamedict.get(year)
             fullname = ' '.join([firstnames, lastname])
             # BIRTHDAY, BIRTHYEAR, PROFESSION & EDUCATION ADDED
-            mps_yearly.append([year, term, i, fullname, lastname, df["Etunimet"].iloc[i], party, dates, female, df["Syntymäpaikka"].iloc[i], districts, firstdistrict, birthday, birthyear,
-                               profession, education])
+            mps_yearly.append([year, term, i, fullname, lastname, df["Etunimet"].iloc[i], party, dates, female, df["Syntymäpaikka"].iloc[i],
+                               districts, firstdistrict, birthday, birthyear,
+                               profession, education, startyear, endyear])
 
 speakernames = [entry[2] for entry in mps_yearly]
 firstlen = len(set(speakernames))
@@ -346,11 +340,20 @@ for i in range(len(df)):
     lastnamedict = getLastNames(lastname)
 
 
-    #############################################################
+    ############################################################# 
+
+    # ADD BIRTHDAY AND BIRTHYEAR, old
+    #birthday = df["MOPBirthdayText"].iloc[i]
+    #birthyear = re.findall(r'\d{4}', birthday)
 
     # ADD BIRTHDAY AND BIRTHYEAR
     birthday = df["MOPBirthdayText"].iloc[i]
-    birthyear = re.findall(r'\d{4}', birthday)
+
+    #from datetime import datetime
+    dt = datetime.strptime(birthday, '%d.%m.%Y')
+
+    birthyear = dt.year
+
 
     # ADD PROFESSION AND EDUCATION
     profession = df["Ammatti"].iloc[i]
@@ -379,14 +382,21 @@ for i in range(len(df)):
             lastname = lastnamedict.get(year)
             fullname = ' '.join([firstnames, lastname])
             # BIRTHDAY, BIRTHYEAR, PROFESSION & EDUCATION ADDED
-            mps_yearly.append([year, term, i + firstlen+1, fullname, lastname, df["Etunimet"].iloc[i], party, dates, female, df["Syntymäpaikka"].iloc[i], districts, firstdistrict, birthday,
-                               birthyear, profession, education])
+            mps_yearly.append([year, term, i + firstlen+1, fullname, lastname, df["Etunimet"].iloc[i], party, dates,
+                               female, df["Syntymäpaikka"].iloc[i], districts, firstdistrict, birthday,
+                               birthyear, profession, education, startyear, endyear])
 
 print("MP rows:", len(mps_yearly))
 
+
+# added startyear and endyear here
 outdf = pd.DataFrame.from_records(mps_yearly, columns=["year", "term",
     "speaker_id", "full_name", "last_name", "first_names", "party", "dates",
-    "female", "birthplace", "electroral_districts", "first_district", "birthday", "birthyear", "profession", "education"])
+    "female", "birthplace", "electroral_districts", "first_district", "birthday", "birthyear", "profession", "education", "startyear", "endyear"])
+
+
+
+
 outdf.to_csv(outdir + 'mp-data.csv', sep ='|', index = False, encoding = 'utf-8')
 
 # print(df.shape)

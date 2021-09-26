@@ -68,6 +68,8 @@ pmparty["pm_party"] = pmparty.pm_party.apply(lambda x: replacePartyName(x))
 mpdf2 = pd.read_csv(outdir + 'mps-ministers-trained.csv', delimiter = '|',
     lineterminator = "\n", encoding = "utf-8")
 
+
+
 # Generate minister dummy
 mpdf2['minister'] = np.where(pd.isnull(mpdf2['titles']) != True, 1, 0)
 
